@@ -37,3 +37,4 @@
 [feature/calculus-multivariable] fix(calculus): fix singularity handling in adaptive quadrature
 [feature/numerical-engine] feat(numerical): implement Newton-Raphson root finding
 [feature/numerical-engine] feat(numerical): add bisection and secant methods
+[feature/numerical-engine] feat(numerical): implement Brent's method for robust root finding
