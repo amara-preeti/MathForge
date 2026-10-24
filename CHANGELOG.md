@@ -156,3 +156,4 @@
 [feature/number-theory] feat(numth): add modular arithmetic operations
 [feature/number-theory] feat(numth): implement RSA key generation for cryptography module
 [feature/number-theory] feat(numth): add continued fraction expansion
+[feature/number-theory] test(numth): add number theory algorithm tests
