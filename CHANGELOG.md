@@ -128,3 +128,4 @@
 [feature/notebook-engine] test(notebook): add notebook execution tests
 [feature/notebook-collaboration] feat(notebook): add real-time collaboration via WebSockets
 [feature/notebook-collaboration] feat(notebook): implement conflict resolution for concurrent edits
+[feature/notebook-collaboration] feat(notebook): add version history for notebooks
