@@ -238,3 +238,4 @@
 [feature/backend-api-matrix] feat(api): add eigenvalue endpoint
 [feature/backend-api-matrix] test(api): add API integration tests for matrix routes
 [feature/backend-api-calculus] feat(api): wire calculus engine to /api/calculus router
+[feature/backend-api-calculus] feat(api): add numerical integration endpoint
