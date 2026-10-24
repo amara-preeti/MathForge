@@ -313,3 +313,4 @@
 [feature/accessibility] a11y: implement high-contrast color mode
 [feature/accessibility] a11y: add focus management for modal dialogs
 [feature/mobile-responsive] feat(ui): implement responsive grid layout
+[feature/mobile-responsive] feat(ui): add touch-friendly controls
