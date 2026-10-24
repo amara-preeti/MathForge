@@ -373,3 +373,4 @@
 [feature/api-client-sdk] feat(sdk): implement Python client SDK
 [feature/api-client-sdk] feat(sdk): add JavaScript/TypeScript client SDK
 [feature/api-client-sdk] feat(sdk): implement R client library
+[feature/api-client-sdk] docs(sdk): add SDK usage examples and tutorials
