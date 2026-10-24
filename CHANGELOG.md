@@ -149,3 +149,4 @@
 [feature/plugin-engine] feat(plugin): add plugin sandboxing with restricted execution
 [feature/plugin-engine] feat(plugin): implement plugin API versioning
 [feature/plugin-engine] feat(plugin): add plugin marketplace integration
+[feature/plugin-engine] test(plugin): add plugin lifecycle tests
