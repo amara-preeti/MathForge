@@ -96,3 +96,4 @@
 [feature/optimization-engine] feat(opt): implement interior point method for LP
 [feature/optimization-engine] test(opt): add optimization convergence tests
 [feature/optimization-advanced] feat(opt): add convex programming (CVXPY-style)
+[feature/optimization-advanced] feat(opt): implement genetic algorithm optimizer
