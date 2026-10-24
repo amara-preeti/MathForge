@@ -131,3 +131,4 @@
 [feature/notebook-collaboration] feat(notebook): add version history for notebooks
 [feature/notebook-collaboration] fix(notebook): fix race condition in cell execution order
 [feature/dataset-engine] feat(dataset): implement CSV and JSON data loading
+[feature/dataset-engine] feat(dataset): add Parquet and Arrow format support
