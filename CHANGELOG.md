@@ -463,3 +463,4 @@
 [pr/feat-signal-wavelet-haar] feat(signal): add Haar wavelet transform
 [pr/feat-signal-wavelet-haar] test(signal): verify Haar perfect reconstruction
 [pr/feat-ml-gradient-boosting] feat(ml): implement gradient boosting with shrinkage
+[pr/feat-ml-gradient-boosting] test(ml): add gradient boosting accuracy test
