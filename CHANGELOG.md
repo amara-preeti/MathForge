@@ -510,3 +510,4 @@
 [pr/feat-physics-em-simulation] test(physics): verify Gauss law on point charge
 [pr/feat-dataset-parquet-streaming] feat(dataset): stream large Parquet files in chunks
 [pr/feat-dataset-parquet-streaming] test(dataset): add streaming integrity test
+[pr/feat-export-jupyter-widgets] feat(export): embed interactive widgets in Jupyter export
