@@ -28,3 +28,4 @@
 [feature/calculus-engine] feat(calculus): implement Romberg integration
 [feature/calculus-engine] feat(calculus): add ODE solvers (RK4, RK45)
 [feature/calculus-engine] feat(calculus): implement symbolic limit computation
+[feature/calculus-engine] test(calculus): add integration accuracy benchmarks
