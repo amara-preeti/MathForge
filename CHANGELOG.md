@@ -575,3 +575,4 @@
 [pr/feat-physics-navier-stokes-2d] test(physics): verify lid-driven cavity solution
 [pr/feat-plot-contour-labels] feat(plot): add auto-placed contour line labels
 [pr/feat-plot-contour-labels] fix(plot): fix label collision near plot edges
+[pr/feat-dataset-join-hash] feat(dataset): implement hash join for large datasets
