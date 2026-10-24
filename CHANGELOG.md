@@ -236,3 +236,4 @@
 [feature/backend-api-matrix] feat(api): wire matrix engine to /api/matrix router
 [feature/backend-api-matrix] feat(api): add matrix decomposition endpoints
 [feature/backend-api-matrix] feat(api): add eigenvalue endpoint
+[feature/backend-api-matrix] test(api): add API integration tests for matrix routes
