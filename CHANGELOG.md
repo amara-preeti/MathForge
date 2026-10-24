@@ -325,3 +325,4 @@
 [feature/docker-deployment] ops: implement docker-compose for local development
 [feature/docker-deployment] ops: add Kubernetes deployment manifests
 [feature/docker-deployment] ops: add Helm chart for production deployment
+[feature/cloud-storage] feat(storage): add S3-compatible storage backend
