@@ -630,3 +630,4 @@
 [pr/ci-add-matrix-testing] ci: add Node 18, 20, 22 matrix for frontend
 [pr/sec-dependency-audit] security: fix 3 high-severity dependency vulnerabilities
 [pr/sec-dependency-audit] security: pin transitive dependency versions
+[pr/fix-db-migration-v2] fix(db): correct Alembic migration for computation_history table
