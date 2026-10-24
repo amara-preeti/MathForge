@@ -2,3 +2,4 @@
 [feature/symbolic-engine-core] feat(symbolic): implement AST node hierarchy
 [feature/symbolic-engine-core] feat(symbolic): add algebraic simplification rules
 [feature/symbolic-engine-core] feat(symbolic): implement symbolic differentiation
+[feature/symbolic-engine-core] feat(symbolic): add pattern matching for expressions
