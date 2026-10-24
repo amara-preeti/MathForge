@@ -527,3 +527,4 @@
 [pr/feat-prob-mcmc-hmc] test(prob): verify HMC on bivariate Gaussian
 [pr/perf-matrix-svd-lanczos] perf(matrix): use Lanczos iteration for large sparse SVD
 [pr/perf-matrix-svd-lanczos] bench(matrix): 10x speedup on sparse matrices
+[pr/feat-geo-polygon-clip] feat(geo): implement Sutherland-Hodgman polygon clipping
