@@ -372,3 +372,4 @@
 [feature/jupyter-integration] docs(jupyter): add Jupyter integration guide
 [feature/api-client-sdk] feat(sdk): implement Python client SDK
 [feature/api-client-sdk] feat(sdk): add JavaScript/TypeScript client SDK
+[feature/api-client-sdk] feat(sdk): implement R client library
