@@ -438,3 +438,4 @@
 [release/v1.2.0] chore(release): generate API migration guide
 [release/v1.3.0] chore(release): bump version to v1.3.0
 [release/v1.3.0] chore(release): update CHANGELOG for v1.3.0 with physics engine
+[release/v1.3.0] chore(release): update documentation site
