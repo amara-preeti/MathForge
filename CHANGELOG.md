@@ -8,3 +8,4 @@
 [feature/symbolic-engine-core] docs(symbolic): add API documentation for symbolic engine
 [feature/symbolic-engine-integration] feat(symbolic): add LaTeX output formatter
 [feature/symbolic-engine-integration] feat(symbolic): add MathML output support
+[feature/symbolic-engine-integration] feat(symbolic): implement symbolic integration via parts
