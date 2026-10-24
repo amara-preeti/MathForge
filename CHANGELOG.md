@@ -445,3 +445,5 @@
 [release/v2.0.0-beta] chore(release): freeze v2.0.0-beta API surface
 [pr/fix-symbolic-parser-edge-cases] fix(symbolic): handle empty input in parser
 [pr/fix-symbolic-parser-edge-cases] fix(symbolic): fix operator precedence for nested exprs
+[pr/feat-matrix-sparse-ops] feat(matrix): add sparse matrix element-wise ops
+[pr/feat-matrix-sparse-ops] test(matrix): add sparse ops unit tests
