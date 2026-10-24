@@ -386,3 +386,4 @@
 [feature/theme-system] feat(theme): add dark mode with system preference detection
 [feature/theme-system] feat(theme): add solarized and monokai themes
 [feature/theme-system] feat(theme): implement custom theme creator
+[feature/keyboard-shortcuts] feat(shortcuts): implement global keyboard shortcut system
