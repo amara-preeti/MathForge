@@ -460,3 +460,5 @@
 [pr/feat-graph-floyd-warshall] feat(graph): implement Floyd-Warshall all-pairs shortest path
 [pr/feat-graph-floyd-warshall] test(graph): verify Floyd-Warshall on dense graph
 [pr/fix-equation-polynomial-gcd] fix(eq): fix GCD computation for polynomials with leading zeros
+[pr/feat-signal-wavelet-haar] feat(signal): add Haar wavelet transform
+[pr/feat-signal-wavelet-haar] test(signal): verify Haar perfect reconstruction
