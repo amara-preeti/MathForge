@@ -523,3 +523,5 @@
 [pr/feat-calculus-adaptive-simpson] feat(calculus): add adaptive Simpson quadrature
 [pr/feat-calculus-adaptive-simpson] test(calculus): verify on oscillatory functions
 [pr/fix-stats-t-test-welch] fix(stats): use Welch correction for unequal variances in t-test
+[pr/feat-prob-mcmc-hmc] feat(prob): implement Hamiltonian Monte Carlo sampler
+[pr/feat-prob-mcmc-hmc] test(prob): verify HMC on bivariate Gaussian
