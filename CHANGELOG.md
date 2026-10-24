@@ -80,3 +80,4 @@
 [feature/geometry-transformations] docs(geo): document geometry engine API
 [feature/graph-engine] feat(graph): implement adjacency list and matrix representations
 [feature/graph-engine] feat(graph): add BFS and DFS traversal algorithms
+[feature/graph-engine] feat(graph): implement Dijkstra's shortest path algorithm
