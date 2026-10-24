@@ -480,3 +480,4 @@
 [pr/feat-auth-refresh-token] feat(auth): implement JWT refresh token rotation
 [pr/feat-auth-refresh-token] test(auth): add refresh token expiry test
 [pr/fix-ws-reconnect-backoff] fix(ws): implement exponential backoff on reconnect
+[pr/fix-ws-reconnect-backoff] test(ws): add reconnect simulation test
