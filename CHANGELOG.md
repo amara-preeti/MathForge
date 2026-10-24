@@ -599,3 +599,5 @@
 [pr/feat-graph-min-cut] feat(graph): implement Karger's randomized min-cut
 [pr/feat-graph-min-cut] test(graph): verify min-cut on known instances
 [pr/fix-signal-filter-phase] fix(signal): correct group delay computation in IIR filters
+[pr/feat-ml-lstm-cell] feat(ml): implement LSTM cell with forget/input/output gates
+[pr/feat-ml-lstm-cell] test(ml): verify LSTM gradient flow
