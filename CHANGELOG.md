@@ -333,3 +333,4 @@
 [feature/sharing-collaboration] feat(share): add notebook sharing with access control
 [feature/sharing-collaboration] feat(share): implement public gallery for computations
 [feature/sharing-collaboration] feat(share): add embed mode for iframes
+[feature/expression-editor] feat(editor): implement math expression editor
