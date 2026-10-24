@@ -375,3 +375,4 @@
 [feature/api-client-sdk] feat(sdk): implement R client library
 [feature/api-client-sdk] docs(sdk): add SDK usage examples and tutorials
 [feature/plugin-marketplace] feat(marketplace): implement plugin marketplace backend
+[feature/plugin-marketplace] feat(marketplace): add plugin submission workflow
