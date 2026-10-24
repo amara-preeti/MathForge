@@ -170,3 +170,4 @@
 [feature/signal-processing] test(signal): add signal processing accuracy tests
 [feature/signal-advanced] feat(signal): add noise reduction algorithms
 [feature/signal-advanced] feat(signal): implement Hilbert transform
+[feature/signal-advanced] feat(signal): add convolution and correlation
