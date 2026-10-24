@@ -233,3 +233,4 @@
 [feature/backend-api-symbolic] feat(api): add symbolic differentiation endpoint
 [feature/backend-api-symbolic] feat(api): add symbolic integration endpoint
 [feature/backend-api-symbolic] test(api): add API integration tests for symbolic routes
+[feature/backend-api-matrix] feat(api): wire matrix engine to /api/matrix router
