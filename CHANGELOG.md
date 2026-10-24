@@ -454,3 +454,4 @@
 [pr/feat-prob-copula-frank] docs(prob): document Frank copula parameters
 [pr/perf-matrix-multiply-cache] perf(matrix): cache-friendly matrix multiply layout
 [pr/perf-matrix-multiply-cache] bench(matrix): add multiply benchmark
+[pr/fix-numerical-bisection-nan] fix(numerical): guard against NaN in bisection method
