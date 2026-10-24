@@ -622,3 +622,4 @@
 [pr/fix-api-rate-limit-redis] test(api): verify rate limit across distributed instances
 [pr/chore-update-fastapi-0-110] chore: upgrade FastAPI to 0.110.0
 [pr/chore-update-fastapi-0-110] chore: update Pydantic to v2 API
+[pr/chore-update-react-19] chore: upgrade React to 19.0
