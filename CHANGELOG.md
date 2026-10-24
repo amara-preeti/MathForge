@@ -92,3 +92,4 @@
 [feature/optimization-engine] feat(opt): implement gradient descent variants (SGD, Adam, RMSProp)
 [feature/optimization-engine] feat(opt): add conjugate gradient method
 [feature/optimization-engine] feat(opt): implement L-BFGS quasi-Newton method
+[feature/optimization-engine] feat(opt): add linear programming solver (simplex method)
