@@ -354,3 +354,4 @@
 [feature/benchmarking-suite] bench: add memory usage benchmarks
 [feature/benchmarking-suite] bench: implement accuracy benchmarks against known results
 [feature/benchmarking-suite] bench: add competitive analysis vs Wolfram Alpha API
+[feature/code-generation] feat(codegen): implement Python code generation from computations
