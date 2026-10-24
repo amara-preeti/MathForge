@@ -336,3 +336,4 @@
 [feature/expression-editor] feat(editor): implement math expression editor
 [feature/expression-editor] feat(editor): add autocomplete for math functions
 [feature/expression-editor] feat(editor): implement syntax highlighting for MathForge DSL
+[feature/expression-editor] feat(editor): add bracket matching and auto-close
