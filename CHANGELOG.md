@@ -487,3 +487,5 @@
 [pr/perf-symbolic-cse] bench(symbolic): CSE benchmark on large expressions
 [pr/feat-notebook-git-history] feat(notebook): track notebook version history
 [pr/feat-notebook-git-history] test(notebook): add version diff test
+[pr/fix-plot-axis-labels] fix(plot): prevent axis label overlap with auto-rotation
+[pr/fix-plot-axis-labels] fix(plot): fix label truncation on small viewports
