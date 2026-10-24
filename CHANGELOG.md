@@ -266,3 +266,4 @@
 [feature/ci-cd-pipeline] ci: add GitHub Actions workflow for Python backend
 [feature/ci-cd-pipeline] ci: add frontend build and test workflow
 [feature/ci-cd-pipeline] ci: implement automated integration testing
+[feature/ci-cd-pipeline] ci: add code coverage reporting
