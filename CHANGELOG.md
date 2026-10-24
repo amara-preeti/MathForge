@@ -289,3 +289,4 @@
 [feature/testing-infrastructure] test: add load testing with Locust
 [feature/testing-infrastructure] test: set up test coverage requirements
 [feature/monitoring-observability] ops: add Prometheus metrics endpoint
+[feature/monitoring-observability] ops: implement structured logging with structlog
