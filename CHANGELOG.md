@@ -19,3 +19,4 @@
 [feature/matrix-engine-core] test(matrix): add comprehensive matrix operation tests
 [feature/matrix-engine-core] perf(matrix): optimize matrix multiplication with BLAS-style blocking
 [feature/matrix-advanced] feat(matrix): add SVD decomposition
+[feature/matrix-advanced] feat(matrix): implement Cholesky decomposition
