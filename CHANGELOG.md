@@ -536,3 +536,5 @@
 [pr/feat-signal-phase-vocoder] test(signal): verify pitch preservation
 [pr/feat-ml-vae-encoder] feat(ml): implement VAE encoder with reparameterization
 [pr/feat-ml-vae-encoder] test(ml): verify latent space distribution
+[pr/feat-numth-elliptic-add] feat(numth): implement elliptic curve point addition
+[pr/feat-numth-elliptic-add] test(numth): verify associativity of EC addition
