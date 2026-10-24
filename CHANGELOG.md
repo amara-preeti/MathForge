@@ -242,3 +242,4 @@
 [feature/backend-api-calculus] feat(api): add ODE solver endpoint
 [feature/backend-api-calculus] test(api): add calculus API tests
 [feature/backend-api-stats] feat(api): wire statistics engine to /api/stats router
+[feature/backend-api-stats] feat(api): add hypothesis testing endpoint
