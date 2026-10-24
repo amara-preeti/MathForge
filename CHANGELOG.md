@@ -63,3 +63,4 @@
 [feature/probability-engine] feat(prob): add Monte Carlo simulation engine
 [feature/probability-engine] feat(prob): implement Markov chain analysis
 [feature/probability-engine] test(prob): add distribution moment verification tests
+[feature/probability-advanced] feat(prob): add stochastic process simulation
