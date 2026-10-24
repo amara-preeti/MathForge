@@ -491,3 +491,5 @@
 [pr/fix-plot-axis-labels] fix(plot): fix label truncation on small viewports
 [pr/feat-stats-kernel-density] feat(stats): implement kernel density estimation
 [pr/feat-stats-kernel-density] test(stats): verify KDE on Gaussian samples
+[pr/feat-prob-beta-distribution] feat(prob): add Beta distribution support
+[pr/feat-prob-beta-distribution] test(prob): verify Beta moments
