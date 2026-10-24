@@ -183,3 +183,4 @@
 [feature/ml-deep-learning] feat(ml): implement backpropagation with automatic differentiation
 [feature/ml-deep-learning] feat(ml): add Adam, SGD, and RMSProp optimizers
 [feature/ml-deep-learning] feat(ml): implement batch normalization
+[feature/ml-deep-learning] feat(ml): add dropout regularization
