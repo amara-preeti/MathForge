@@ -317,3 +317,4 @@
 [feature/mobile-responsive] feat(ui): implement mobile navigation drawer
 [feature/mobile-responsive] feat(ui): optimize plot rendering for small screens
 [feature/pwa-support] feat(pwa): add Service Worker for offline support
+[feature/pwa-support] feat(pwa): implement progressive web app manifest
