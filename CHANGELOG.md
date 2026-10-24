@@ -16,3 +16,4 @@
 [feature/matrix-engine-core] feat(matrix): implement LU decomposition
 [feature/matrix-engine-core] feat(matrix): add QR decomposition with Householder reflections
 [feature/matrix-engine-core] feat(matrix): implement eigenvalue computation (QR algorithm)
+[feature/matrix-engine-core] test(matrix): add comprehensive matrix operation tests
