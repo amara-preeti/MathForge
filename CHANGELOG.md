@@ -153,3 +153,4 @@
 [feature/number-theory] feat(numth): implement prime number generation (Sieve of Eratosthenes)
 [feature/number-theory] feat(numth): add primality testing (Miller-Rabin)
 [feature/number-theory] feat(numth): implement integer factorization (Pollard rho)
+[feature/number-theory] feat(numth): add modular arithmetic operations
