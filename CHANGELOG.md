@@ -59,3 +59,4 @@
 [feature/statistics-advanced] fix(stats): fix numerical issue in log-likelihood computation
 [feature/probability-engine] feat(prob): implement continuous distribution framework
 [feature/probability-engine] feat(prob): add discrete distribution framework
+[feature/probability-engine] feat(prob): implement joint and conditional distributions
