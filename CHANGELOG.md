@@ -9,3 +9,4 @@
 [feature/symbolic-engine-integration] feat(symbolic): add LaTeX output formatter
 [feature/symbolic-engine-integration] feat(symbolic): add MathML output support
 [feature/symbolic-engine-integration] feat(symbolic): implement symbolic integration via parts
+[feature/symbolic-engine-integration] fix(symbolic): handle edge case in trigonometric simplification
