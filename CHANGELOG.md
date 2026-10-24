@@ -74,3 +74,4 @@
 [feature/geometry-engine] feat(geo): implement Voronoi diagram generation
 [feature/geometry-engine] test(geo): add geometric algorithm correctness tests
 [feature/geometry-transformations] feat(geo): add affine transformations (rotation, scaling, shear)
+[feature/geometry-transformations] feat(geo): implement projective transformations
