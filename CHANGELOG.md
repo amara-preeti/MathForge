@@ -60,3 +60,4 @@
 [feature/probability-engine] feat(prob): implement continuous distribution framework
 [feature/probability-engine] feat(prob): add discrete distribution framework
 [feature/probability-engine] feat(prob): implement joint and conditional distributions
+[feature/probability-engine] feat(prob): add Monte Carlo simulation engine
