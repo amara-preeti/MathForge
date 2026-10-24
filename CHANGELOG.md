@@ -546,3 +546,4 @@
 [pr/feat-dataset-missing-knn] test(dataset): verify KNN imputation RMSE
 [pr/feat-export-latex-template] feat(export): add customizable LaTeX document templates
 [pr/feat-export-latex-template] docs(export): document template variables
+[pr/fix-plugin-version-conflict] fix(plugin): resolve version conflict between plugin deps
