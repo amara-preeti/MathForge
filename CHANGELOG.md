@@ -602,3 +602,4 @@
 [pr/feat-ml-lstm-cell] feat(ml): implement LSTM cell with forget/input/output gates
 [pr/feat-ml-lstm-cell] test(ml): verify LSTM gradient flow
 [pr/feat-numth-aks-primality] feat(numth): implement AKS deterministic primality test
+[pr/feat-numth-aks-primality] test(numth): verify on first 1000 primes
