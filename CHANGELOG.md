@@ -361,3 +361,4 @@
 [feature/latex-engine] feat(latex): implement LaTeX input parsing
 [feature/latex-engine] feat(latex): add LaTeX to AST conversion
 [feature/latex-engine] feat(latex): implement bidirectional LaTeX/MathForge DSL conversion
+[feature/latex-engine] fix(latex): fix nested fraction rendering in LaTeX output
