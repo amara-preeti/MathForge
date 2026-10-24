@@ -385,3 +385,4 @@
 [feature/theme-system] feat(theme): implement CSS custom properties theme system
 [feature/theme-system] feat(theme): add dark mode with system preference detection
 [feature/theme-system] feat(theme): add solarized and monokai themes
+[feature/theme-system] feat(theme): implement custom theme creator
