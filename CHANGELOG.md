@@ -58,3 +58,4 @@
 [feature/statistics-advanced] feat(stats): implement PCA and factor analysis
 [feature/statistics-advanced] fix(stats): fix numerical issue in log-likelihood computation
 [feature/probability-engine] feat(prob): implement continuous distribution framework
+[feature/probability-engine] feat(prob): add discrete distribution framework
