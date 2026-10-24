@@ -625,3 +625,4 @@
 [pr/chore-update-react-19] chore: upgrade React to 19.0
 [pr/chore-update-react-19] chore: migrate to React 19 concurrent features
 [pr/docs-api-reference-v2] docs: rewrite API reference for v2 endpoints
+[pr/docs-api-reference-v2] docs: add request/response examples for all routes
