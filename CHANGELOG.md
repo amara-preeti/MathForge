@@ -85,3 +85,4 @@
 [feature/graph-engine] feat(graph): implement minimum spanning tree (Kruskal, Prim)
 [feature/graph-engine] test(graph): add graph algorithm tests on benchmark graphs
 [feature/graph-advanced] feat(graph): add topological sort
+[feature/graph-advanced] feat(graph): implement strongly connected components (Tarjan)
