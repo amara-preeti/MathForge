@@ -54,3 +54,4 @@
 [feature/statistics-engine] docs(stats): add statistical methods documentation
 [feature/statistics-advanced] feat(stats): add Bayesian inference engine
 [feature/statistics-advanced] feat(stats): implement MCMC sampling (Metropolis-Hastings)
+[feature/statistics-advanced] feat(stats): add time series analysis (ARIMA)
