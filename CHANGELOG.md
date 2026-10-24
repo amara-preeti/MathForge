@@ -20,3 +20,4 @@
 [feature/matrix-engine-core] perf(matrix): optimize matrix multiplication with BLAS-style blocking
 [feature/matrix-advanced] feat(matrix): add SVD decomposition
 [feature/matrix-advanced] feat(matrix): implement Cholesky decomposition
+[feature/matrix-advanced] feat(matrix): add matrix norm computations
