@@ -430,3 +430,4 @@
 [chore/code-quality] chore: add ESLint and Prettier for TypeScript
 [chore/code-quality] chore: configure pre-commit hooks
 [chore/code-quality] chore: add code complexity metrics reporting
+[release/v1.1.0] chore(release): bump version to v1.1.0
