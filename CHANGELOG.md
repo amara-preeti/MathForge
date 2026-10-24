@@ -124,3 +124,4 @@
 [feature/notebook-engine] feat(notebook): add Python kernel integration
 [feature/notebook-engine] feat(notebook): implement Markdown cell rendering
 [feature/notebook-engine] feat(notebook): add cell output caching
+[feature/notebook-engine] feat(notebook): implement notebook export (HTML, PDF, LaTeX)
