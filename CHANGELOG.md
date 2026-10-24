@@ -100,3 +100,4 @@
 [feature/optimization-advanced] feat(opt): add simulated annealing
 [feature/optimization-advanced] feat(opt): implement particle swarm optimization
 [feature/optimization-advanced] docs(opt): document optimization algorithms and use cases
+[feature/equation-engine] feat(eq): implement linear system solver (Gaussian elimination)
