@@ -551,3 +551,5 @@
 [pr/feat-ui-dark-mode-toggle] fix(ui): persist theme preference in localStorage
 [pr/perf-api-response-compression] perf(api): enable gzip response compression
 [pr/perf-api-response-compression] bench(api): 60% payload reduction on large responses
+[pr/feat-symbolic-limit-lhopital] feat(symbolic): apply L'Hopital rule in limit evaluation
+[pr/feat-symbolic-limit-lhopital] test(symbolic): verify limits of indeterminate forms
