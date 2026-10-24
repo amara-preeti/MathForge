@@ -439,3 +439,4 @@
 [release/v1.3.0] chore(release): bump version to v1.3.0
 [release/v1.3.0] chore(release): update CHANGELOG for v1.3.0 with physics engine
 [release/v1.3.0] chore(release): update documentation site
+[release/v2.0.0-beta] chore(release): prepare v2.0.0 beta release
