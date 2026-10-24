@@ -39,3 +39,4 @@
 [feature/numerical-engine] feat(numerical): add bisection and secant methods
 [feature/numerical-engine] feat(numerical): implement Brent's method for robust root finding
 [feature/numerical-engine] feat(numerical): add polynomial root finding (companion matrix)
+[feature/numerical-engine] test(numerical): add root finding convergence tests
