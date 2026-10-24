@@ -539,3 +539,4 @@
 [pr/feat-numth-elliptic-add] feat(numth): implement elliptic curve point addition
 [pr/feat-numth-elliptic-add] test(numth): verify associativity of EC addition
 [pr/feat-physics-quantum-gates] feat(physics): add Hadamard, CNOT, Toffoli gates
+[pr/feat-physics-quantum-gates] test(physics): verify quantum gate unitarity
