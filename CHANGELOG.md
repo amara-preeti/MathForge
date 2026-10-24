@@ -322,3 +322,4 @@
 [feature/pwa-support] feat(pwa): implement background sync for queued computations
 [feature/docker-deployment] ops: add multi-stage Docker build for backend
 [feature/docker-deployment] ops: add nginx-based frontend Docker image
+[feature/docker-deployment] ops: implement docker-compose for local development
