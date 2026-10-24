@@ -151,3 +151,4 @@
 [feature/plugin-engine] feat(plugin): add plugin marketplace integration
 [feature/plugin-engine] test(plugin): add plugin lifecycle tests
 [feature/number-theory] feat(numth): implement prime number generation (Sieve of Eratosthenes)
+[feature/number-theory] feat(numth): add primality testing (Miller-Rabin)
