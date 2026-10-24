@@ -569,3 +569,4 @@
 [pr/feat-signal-mel-spectrogram] test(signal): verify filterbank energy sums
 [pr/feat-ml-transformer-block] feat(ml): implement Transformer encoder block
 [pr/feat-ml-transformer-block] test(ml): verify residual connection shapes
+[pr/feat-numth-quadratic-sieve] feat(numth): implement basic quadratic sieve factorization
