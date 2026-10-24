@@ -286,3 +286,4 @@
 [feature/testing-infrastructure] test: set up pytest with fixtures and conftest
 [feature/testing-infrastructure] test: add property-based testing with Hypothesis
 [feature/testing-infrastructure] test: implement visual regression tests
+[feature/testing-infrastructure] test: add load testing with Locust
