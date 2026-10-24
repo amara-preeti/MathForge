@@ -102,3 +102,4 @@
 [feature/optimization-advanced] docs(opt): document optimization algorithms and use cases
 [feature/equation-engine] feat(eq): implement linear system solver (Gaussian elimination)
 [feature/equation-engine] feat(eq): add iterative solvers (Jacobi, Gauss-Seidel, SOR)
+[feature/equation-engine] feat(eq): implement polynomial arithmetic and GCD
