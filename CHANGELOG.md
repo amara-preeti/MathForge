@@ -73,3 +73,4 @@
 [feature/geometry-engine] feat(geo): add convex hull computation (QuickHull)
 [feature/geometry-engine] feat(geo): implement Voronoi diagram generation
 [feature/geometry-engine] test(geo): add geometric algorithm correctness tests
+[feature/geometry-transformations] feat(geo): add affine transformations (rotation, scaling, shear)
