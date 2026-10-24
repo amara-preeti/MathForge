@@ -134,3 +134,4 @@
 [feature/dataset-engine] feat(dataset): add Parquet and Arrow format support
 [feature/dataset-engine] feat(dataset): implement data cleaning pipeline
 [feature/dataset-engine] feat(dataset): add data transformation DSL
+[feature/dataset-engine] feat(dataset): implement lazy evaluation for large datasets
