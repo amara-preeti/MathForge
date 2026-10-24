@@ -136,3 +136,4 @@
 [feature/dataset-engine] feat(dataset): add data transformation DSL
 [feature/dataset-engine] feat(dataset): implement lazy evaluation for large datasets
 [feature/dataset-engine] test(dataset): add data pipeline integration tests
+[feature/dataset-advanced] feat(dataset): add SQL query interface over datasets
