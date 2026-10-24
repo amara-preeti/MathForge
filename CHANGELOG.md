@@ -408,3 +408,4 @@
 [bugfix/numerical-stability] fix(numerical): improve convergence detection in iterative solvers
 [bugfix/ui-rendering] fix(ui): fix plot re-render on window resize
 [bugfix/ui-rendering] fix(ui): fix matrix input overflow on small screens
+[bugfix/ui-rendering] fix(ui): correct LaTeX rendering for complex fractions
