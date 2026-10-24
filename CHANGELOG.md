@@ -443,3 +443,4 @@
 [release/v2.0.0-beta] chore(release): update CHANGELOG for v2.0.0-beta
 [release/v2.0.0-beta] chore(release): add upgrade guide from v1.x to v2.0
 [release/v2.0.0-beta] chore(release): freeze v2.0.0-beta API surface
+[pr/fix-symbolic-parser-edge-cases] fix(symbolic): handle empty input in parser
