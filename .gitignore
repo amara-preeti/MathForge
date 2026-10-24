@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.venv/
+venv/
+env/
+*.pyc
+
+# Node
+node_modules/
+dist/
+.cache/
+*.tsbuildinfo
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Coverage
+.coverage
+htmlcov/
+coverage.xml
+
+# Env
+.env
+.env.*
+
+# Exports
+exports/*.pdf
+exports/*.html
+exports/*.tex
+
+# Workspace data (user-generated)
+workspace/*.json
+workspace/*.mf
+
+# Build artifacts
+*.whl
+*.tar.gz
