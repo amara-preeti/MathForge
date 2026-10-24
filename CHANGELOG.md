@@ -251,3 +251,4 @@
 [feature/backend-api-ml] feat(api): add model evaluation metrics endpoint
 [feature/backend-api-ml] test(api): add ML API integration tests
 [feature/backend-auth] feat(auth): implement JWT authentication
+[feature/backend-auth] feat(auth): add OAuth2 provider support
