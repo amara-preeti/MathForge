@@ -449,3 +449,4 @@
 [pr/feat-matrix-sparse-ops] test(matrix): add sparse ops unit tests
 [pr/feat-calculus-romberg] feat(calculus): implement Romberg integration
 [pr/feat-calculus-romberg] test(calculus): verify Romberg accuracy on polynomials
+[pr/fix-stats-variance-edge-case] fix(stats): handle n=1 case in variance computation
