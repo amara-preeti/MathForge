@@ -27,3 +27,4 @@
 [feature/calculus-engine] feat(calculus): add adaptive Gaussian quadrature
 [feature/calculus-engine] feat(calculus): implement Romberg integration
 [feature/calculus-engine] feat(calculus): add ODE solvers (RK4, RK45)
+[feature/calculus-engine] feat(calculus): implement symbolic limit computation
