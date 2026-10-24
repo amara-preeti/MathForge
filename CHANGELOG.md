@@ -304,3 +304,4 @@
 [feature/websocket-realtime] fix(ws): fix WebSocket reconnection handling
 [feature/internationalization] i18n: add i18n framework setup
 [feature/internationalization] i18n: add English locale strings
+[feature/internationalization] i18n: add Spanish locale translations
