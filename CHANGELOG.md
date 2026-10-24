@@ -590,3 +590,4 @@
 [pr/feat-notebook-auto-save] feat(notebook): auto-save every 60s with conflict detection
 [pr/feat-notebook-auto-save] test(notebook): simulate concurrent save conflict
 [pr/feat-calculus-pde-heat] feat(calculus): solve heat equation with Crank-Nicolson
+[pr/feat-calculus-pde-heat] test(calculus): verify conservation of energy
