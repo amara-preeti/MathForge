@@ -276,3 +276,4 @@
 [feature/performance-profiling] perf: profile and optimize symbolic engine hot paths
 [feature/performance-profiling] perf: optimize matrix operations with NumPy vectorization
 [feature/performance-profiling] perf: implement lazy evaluation for symbolic expressions
+[feature/performance-profiling] perf: add computation time budgeting
