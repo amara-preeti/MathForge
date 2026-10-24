@@ -209,3 +209,4 @@
 [feature/frontend-matrix-ui] feat(ui): implement matrix visualization (heatmap)
 [feature/frontend-matrix-ui] feat(ui): add eigenvalue/eigenvector display
 [feature/frontend-calculus-ui] feat(ui): implement function input with LaTeX preview
+[feature/frontend-calculus-ui] feat(ui): add integral bounds UI
