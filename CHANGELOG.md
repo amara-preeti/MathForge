@@ -223,3 +223,4 @@
 [feature/frontend-notebook-ui] feat(ui): implement notebook cell editor (CodeMirror)
 [feature/frontend-notebook-ui] feat(ui): add cell execution controls
 [feature/frontend-notebook-ui] feat(ui): implement output rendering for plots and tables
+[feature/frontend-notebook-ui] feat(ui): add notebook toolbar and menu
