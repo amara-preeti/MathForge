@@ -273,3 +273,4 @@
 [feature/documentation] docs: add developer contributing guide
 [feature/documentation] docs: add mathematical algorithm documentation
 [feature/documentation] docs: add architecture decision records (ADRs)
+[feature/performance-profiling] perf: profile and optimize symbolic engine hot paths
