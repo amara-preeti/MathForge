@@ -36,3 +36,4 @@
 [feature/calculus-multivariable] feat(calculus): implement divergence and curl operators
 [feature/calculus-multivariable] fix(calculus): fix singularity handling in adaptive quadrature
 [feature/numerical-engine] feat(numerical): implement Newton-Raphson root finding
+[feature/numerical-engine] feat(numerical): add bisection and secant methods
