@@ -51,3 +51,4 @@
 [feature/statistics-engine] feat(stats): add linear regression with OLS and WLS
 [feature/statistics-engine] feat(stats): implement bootstrap confidence intervals
 [feature/statistics-engine] test(stats): add statistical correctness tests against known datasets
+[feature/statistics-engine] docs(stats): add statistical methods documentation
