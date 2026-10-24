@@ -88,3 +88,4 @@
 [feature/graph-advanced] feat(graph): implement strongly connected components (Tarjan)
 [feature/graph-advanced] feat(graph): add max flow (Ford-Fulkerson, Dinic)
 [feature/graph-advanced] feat(graph): implement graph coloring algorithms
+[feature/graph-advanced] feat(graph): add spectral graph theory computations
