@@ -489,3 +489,4 @@
 [pr/feat-notebook-git-history] test(notebook): add version diff test
 [pr/fix-plot-axis-labels] fix(plot): prevent axis label overlap with auto-rotation
 [pr/fix-plot-axis-labels] fix(plot): fix label truncation on small viewports
+[pr/feat-stats-kernel-density] feat(stats): implement kernel density estimation
