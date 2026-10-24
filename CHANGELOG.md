@@ -617,3 +617,4 @@
 [pr/feat-symbolic-series-laurent] feat(symbolic): compute Laurent series around singularities
 [pr/feat-symbolic-series-laurent] test(symbolic): verify Laurent of 1/sin(x) at x=0
 [pr/feat-opt-multi-objective-nsga2] feat(opt): implement NSGA-II multi-objective optimizer
+[pr/feat-opt-multi-objective-nsga2] test(opt): verify Pareto front on ZDT1 benchmark
