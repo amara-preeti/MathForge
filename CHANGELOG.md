@@ -495,3 +495,4 @@
 [pr/feat-prob-beta-distribution] test(prob): verify Beta moments
 [pr/feat-numerical-hermite-interp] feat(numerical): add Hermite interpolation
 [pr/feat-numerical-hermite-interp] test(numerical): verify Hermite with derivative data
+[pr/fix-opt-adam-bias-correction] fix(opt): apply bias correction in Adam first iteration
