@@ -113,3 +113,4 @@
 [feature/plotting-engine] feat(plot): add line, scatter, bar, and histogram plots
 [feature/plotting-engine] feat(plot): implement 3D surface and wireframe plots
 [feature/plotting-engine] feat(plot): add contour and heatmap visualization
+[feature/plotting-engine] feat(plot): implement interactive plot controls
