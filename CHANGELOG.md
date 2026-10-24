@@ -12,3 +12,4 @@
 [feature/symbolic-engine-integration] fix(symbolic): handle edge case in trigonometric simplification
 [feature/symbolic-engine-integration] refactor(symbolic): extract common subexpression elimination
 [feature/matrix-engine-core] feat(matrix): implement dense matrix operations
+[feature/matrix-engine-core] feat(matrix): add sparse matrix support with CSR format
