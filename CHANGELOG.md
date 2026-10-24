@@ -256,3 +256,4 @@
 [feature/backend-auth] feat(auth): add API key management
 [feature/backend-auth] test(auth): add authentication flow tests
 [feature/backend-caching] feat(cache): implement Redis-based result caching
+[feature/backend-caching] feat(cache): add cache invalidation strategies
