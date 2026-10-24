@@ -531,3 +531,4 @@
 [pr/feat-geo-polygon-clip] test(geo): verify clip preserves area
 [pr/feat-graph-max-clique] feat(graph): implement Bron-Kerbosch max clique
 [pr/feat-graph-max-clique] test(graph): verify on known clique instances
+[pr/fix-eq-diophantine-negative] fix(eq): handle negative coefficients in linear Diophantine solver
