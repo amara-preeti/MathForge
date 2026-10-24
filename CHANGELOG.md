@@ -515,3 +515,4 @@
 [pr/fix-plugin-sandbox-escape] test(plugin): add sandbox security test
 [pr/feat-ui-expression-history] feat(ui): add expression history dropdown
 [pr/feat-ui-expression-history] fix(ui): persist history across sessions
+[pr/fix-api-cors-preflight] fix(api): correctly handle OPTIONS preflight for all routes
