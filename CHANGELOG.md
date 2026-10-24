@@ -42,3 +42,4 @@
 [feature/numerical-engine] test(numerical): add root finding convergence tests
 [feature/numerical-interpolation] feat(numerical): add Lagrange interpolation
 [feature/numerical-interpolation] feat(numerical): implement cubic spline interpolation
+[feature/numerical-interpolation] feat(numerical): add Chebyshev interpolation nodes
