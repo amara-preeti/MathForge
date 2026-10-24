@@ -3,3 +3,4 @@
 [feature/symbolic-engine-core] feat(symbolic): add algebraic simplification rules
 [feature/symbolic-engine-core] feat(symbolic): implement symbolic differentiation
 [feature/symbolic-engine-core] feat(symbolic): add pattern matching for expressions
+[feature/symbolic-engine-core] test(symbolic): add unit tests for parser
