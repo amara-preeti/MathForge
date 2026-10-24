@@ -187,3 +187,4 @@
 [feature/ml-deep-learning] feat(ml): implement convolutional neural network training
 [feature/physics-engine] feat(physics): implement classical mechanics simulation
 [feature/physics-engine] feat(physics): add rigid body dynamics
+[feature/physics-engine] feat(physics): implement electromagnetic field simulation
