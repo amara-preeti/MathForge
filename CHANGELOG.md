@@ -319,3 +319,4 @@
 [feature/pwa-support] feat(pwa): add Service Worker for offline support
 [feature/pwa-support] feat(pwa): implement progressive web app manifest
 [feature/pwa-support] feat(pwa): add offline computation caching
+[feature/pwa-support] feat(pwa): implement background sync for queued computations
