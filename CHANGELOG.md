@@ -25,3 +25,4 @@
 [feature/matrix-advanced] fix(matrix): fix numerical stability in LU with partial pivoting
 [feature/calculus-engine] feat(calculus): implement numerical differentiation (finite differences)
 [feature/calculus-engine] feat(calculus): add adaptive Gaussian quadrature
+[feature/calculus-engine] feat(calculus): implement Romberg integration
