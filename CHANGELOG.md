@@ -414,3 +414,4 @@
 [bugfix/api-errors] fix(api): handle computation timeout with proper error response
 [bugfix/api-errors] fix(api): fix CORS preflight handling for auth endpoints
 [bugfix/api-errors] fix(api): correct pagination in history list endpoint
+[refactor/engine-interfaces] refactor: define common Engine base interface
