@@ -388,3 +388,4 @@
 [feature/theme-system] feat(theme): implement custom theme creator
 [feature/keyboard-shortcuts] feat(shortcuts): implement global keyboard shortcut system
 [feature/keyboard-shortcuts] feat(shortcuts): add shortcut hints overlay
+[feature/keyboard-shortcuts] feat(shortcuts): implement vim-mode for expression editor
