@@ -402,3 +402,4 @@
 [bugfix/parser-edge-cases] fix(parser): fix parsing of nested parentheses
 [bugfix/parser-edge-cases] fix(parser): handle Unicode math symbols correctly
 [bugfix/parser-edge-cases] fix(parser): fix operator priority for unary minus
+[bugfix/numerical-stability] fix(numerical): improve condition number estimation
