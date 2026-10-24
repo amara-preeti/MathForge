@@ -70,3 +70,4 @@
 [feature/geometry-engine] feat(geo): implement 2D geometric primitives
 [feature/geometry-engine] feat(geo): add 3D geometric objects
 [feature/geometry-engine] feat(geo): implement computational geometry algorithms
+[feature/geometry-engine] feat(geo): add convex hull computation (QuickHull)
