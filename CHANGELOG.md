@@ -160,3 +160,4 @@
 [feature/number-theory-advanced] feat(numth): add Euler's totient function
 [feature/number-theory-advanced] feat(numth): implement Mobius function and inversion
 [feature/number-theory-advanced] feat(numth): add quadratic sieve for large factorization
+[feature/number-theory-advanced] feat(numth): implement elliptic curve point operations
