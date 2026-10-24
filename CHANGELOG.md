@@ -562,3 +562,4 @@
 [pr/perf-numerical-fft-radix4] bench(numerical): 25% speedup over radix-2
 [pr/feat-geo-voronoi-incremental] feat(geo): implement incremental Voronoi construction
 [pr/feat-geo-voronoi-incremental] test(geo): verify Fortune's and incremental agree
+[pr/feat-graph-spectral-clustering] feat(graph): implement spectral clustering via graph Laplacian
