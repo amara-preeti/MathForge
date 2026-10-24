@@ -573,3 +573,4 @@
 [pr/feat-numth-quadratic-sieve] test(numth): factor semiprime with quadratic sieve
 [pr/feat-physics-navier-stokes-2d] feat(physics): solve 2D Navier-Stokes with finite diff
 [pr/feat-physics-navier-stokes-2d] test(physics): verify lid-driven cavity solution
+[pr/feat-plot-contour-labels] feat(plot): add auto-placed contour line labels
