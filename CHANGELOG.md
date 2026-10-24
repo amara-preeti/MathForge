@@ -83,3 +83,4 @@
 [feature/graph-engine] feat(graph): implement Dijkstra's shortest path algorithm
 [feature/graph-engine] feat(graph): add A* pathfinding algorithm
 [feature/graph-engine] feat(graph): implement minimum spanning tree (Kruskal, Prim)
+[feature/graph-engine] test(graph): add graph algorithm tests on benchmark graphs
