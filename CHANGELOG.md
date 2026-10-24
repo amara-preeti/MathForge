@@ -418,3 +418,4 @@
 [refactor/engine-interfaces] refactor: migrate all engines to use unified interface
 [refactor/engine-interfaces] refactor: extract shared computation context
 [refactor/engine-interfaces] refactor: centralize error handling in engine layer
+[refactor/frontend-components] refactor(ui): extract common form components
