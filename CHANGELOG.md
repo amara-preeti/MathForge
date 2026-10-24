@@ -629,3 +629,4 @@
 [pr/ci-add-matrix-testing] ci: test on Python 3.11, 3.12, 3.13 matrix
 [pr/ci-add-matrix-testing] ci: add Node 18, 20, 22 matrix for frontend
 [pr/sec-dependency-audit] security: fix 3 high-severity dependency vulnerabilities
+[pr/sec-dependency-audit] security: pin transitive dependency versions
