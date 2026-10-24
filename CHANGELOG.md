@@ -253,3 +253,4 @@
 [feature/backend-auth] feat(auth): implement JWT authentication
 [feature/backend-auth] feat(auth): add OAuth2 provider support
 [feature/backend-auth] feat(auth): implement role-based access control
+[feature/backend-auth] feat(auth): add API key management
