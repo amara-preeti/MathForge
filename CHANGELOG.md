@@ -5,3 +5,4 @@
 [feature/symbolic-engine-core] feat(symbolic): add pattern matching for expressions
 [feature/symbolic-engine-core] test(symbolic): add unit tests for parser
 [feature/symbolic-engine-core] fix(symbolic): fix operator precedence in parser
+[feature/symbolic-engine-core] docs(symbolic): add API documentation for symbolic engine
