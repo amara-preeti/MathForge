@@ -232,3 +232,4 @@
 [feature/backend-api-symbolic] feat(api): add expression simplification endpoint
 [feature/backend-api-symbolic] feat(api): add symbolic differentiation endpoint
 [feature/backend-api-symbolic] feat(api): add symbolic integration endpoint
+[feature/backend-api-symbolic] test(api): add API integration tests for symbolic routes
