@@ -387,3 +387,4 @@
 [feature/theme-system] feat(theme): add solarized and monokai themes
 [feature/theme-system] feat(theme): implement custom theme creator
 [feature/keyboard-shortcuts] feat(shortcuts): implement global keyboard shortcut system
+[feature/keyboard-shortcuts] feat(shortcuts): add shortcut hints overlay
