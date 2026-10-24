@@ -221,3 +221,4 @@
 [feature/frontend-plot-ui] feat(ui): implement zoom and pan controls
 [feature/frontend-plot-ui] feat(ui): add data export for plot data
 [feature/frontend-notebook-ui] feat(ui): implement notebook cell editor (CodeMirror)
+[feature/frontend-notebook-ui] feat(ui): add cell execution controls
