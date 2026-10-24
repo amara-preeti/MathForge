@@ -508,3 +508,5 @@
 [pr/fix-numth-pollard-cycle] fix(numth): fix cycle detection in Pollard rho
 [pr/feat-physics-em-simulation] feat(physics): simulate EM field on 2D grid
 [pr/feat-physics-em-simulation] test(physics): verify Gauss law on point charge
+[pr/feat-dataset-parquet-streaming] feat(dataset): stream large Parquet files in chunks
+[pr/feat-dataset-parquet-streaming] test(dataset): add streaming integrity test
