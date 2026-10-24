@@ -621,3 +621,4 @@
 [pr/fix-api-rate-limit-redis] fix(api): use Redis sliding window for rate limiting
 [pr/fix-api-rate-limit-redis] test(api): verify rate limit across distributed instances
 [pr/chore-update-fastapi-0-110] chore: upgrade FastAPI to 0.110.0
+[pr/chore-update-fastapi-0-110] chore: update Pydantic to v2 API
