@@ -606,3 +606,5 @@
 [pr/perf-physics-vectorized-rk4] perf(physics): vectorize RK4 for N-body simulation
 [pr/perf-physics-vectorized-rk4] bench(physics): 8x speedup for 1000-body system
 [pr/feat-plot-polar-spiral] feat(plot): add Archimedean and logarithmic spiral plots
+[pr/feat-dataset-arrow-zero-copy] feat(dataset): enable zero-copy Arrow IPC data sharing
+[pr/feat-dataset-arrow-zero-copy] bench(dataset): near-zero overhead data transfer
