@@ -468,3 +468,4 @@
 [pr/feat-physics-rk4-pendulum] feat(physics): simulate double pendulum with RK4
 [pr/feat-physics-rk4-pendulum] docs(physics): add pendulum simulation example
 [pr/feat-plot-annotation] feat(plot): add text annotation support
+[pr/feat-plot-annotation] feat(plot): add arrow annotation to plots
