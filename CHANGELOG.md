@@ -66,3 +66,4 @@
 [feature/probability-advanced] feat(prob): add stochastic process simulation
 [feature/probability-advanced] feat(prob): implement Brownian motion and diffusion
 [feature/probability-advanced] feat(prob): add copula functions for dependency modeling
+[feature/probability-advanced] fix(prob): fix CDF inversion for heavy-tailed distributions
