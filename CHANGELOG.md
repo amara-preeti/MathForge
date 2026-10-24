@@ -421,3 +421,4 @@
 [refactor/frontend-components] refactor(ui): extract common form components
 [refactor/frontend-components] refactor(ui): create design system component library
 [refactor/frontend-components] refactor(ui): centralize API client configuration
+[refactor/frontend-components] refactor(ui): extract shared hooks for computation state
