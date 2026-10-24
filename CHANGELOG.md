@@ -475,3 +475,4 @@
 [pr/feat-export-svg-batch] perf(export): parallelize SVG rendering
 [pr/feat-plugin-hot-reload] feat(plugin): implement plugin hot-reload
 [pr/feat-plugin-hot-reload] test(plugin): add plugin reload lifecycle test
+[pr/fix-api-timeout-handling] fix(api): return 408 on computation timeout
