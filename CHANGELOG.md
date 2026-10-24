@@ -191,3 +191,4 @@
 [feature/physics-engine] feat(physics): add quantum mechanics operators
 [feature/physics-engine] feat(physics): implement thermodynamics computations
 [feature/physics-engine] test(physics): add physics simulation validation tests
+[feature/physics-quantum] feat(physics): add Schrodinger equation solver
