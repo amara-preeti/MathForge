@@ -413,3 +413,4 @@
 [bugfix/api-errors] fix(api): return proper 422 for malformed JSON input
 [bugfix/api-errors] fix(api): handle computation timeout with proper error response
 [bugfix/api-errors] fix(api): fix CORS preflight handling for auth endpoints
+[bugfix/api-errors] fix(api): correct pagination in history list endpoint
