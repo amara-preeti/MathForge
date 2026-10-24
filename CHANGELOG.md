@@ -309,3 +309,4 @@
 [feature/internationalization] i18n: add right-to-left layout support
 [feature/accessibility] a11y: add ARIA labels to all interactive elements
 [feature/accessibility] a11y: implement keyboard navigation throughout UI
+[feature/accessibility] a11y: add screen reader support for math output
