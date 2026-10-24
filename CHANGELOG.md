@@ -315,3 +315,4 @@
 [feature/mobile-responsive] feat(ui): implement responsive grid layout
 [feature/mobile-responsive] feat(ui): add touch-friendly controls
 [feature/mobile-responsive] feat(ui): implement mobile navigation drawer
+[feature/mobile-responsive] feat(ui): optimize plot rendering for small screens
