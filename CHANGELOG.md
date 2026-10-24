@@ -185,3 +185,4 @@
 [feature/ml-deep-learning] feat(ml): implement batch normalization
 [feature/ml-deep-learning] feat(ml): add dropout regularization
 [feature/ml-deep-learning] feat(ml): implement convolutional neural network training
+[feature/physics-engine] feat(physics): implement classical mechanics simulation
