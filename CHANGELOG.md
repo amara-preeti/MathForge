@@ -129,3 +129,4 @@
 [feature/notebook-collaboration] feat(notebook): add real-time collaboration via WebSockets
 [feature/notebook-collaboration] feat(notebook): implement conflict resolution for concurrent edits
 [feature/notebook-collaboration] feat(notebook): add version history for notebooks
+[feature/notebook-collaboration] fix(notebook): fix race condition in cell execution order
