@@ -244,3 +244,4 @@
 [feature/backend-api-stats] feat(api): wire statistics engine to /api/stats router
 [feature/backend-api-stats] feat(api): add hypothesis testing endpoint
 [feature/backend-api-stats] feat(api): add regression endpoint
+[feature/backend-api-stats] test(api): add statistics API tests
