@@ -556,3 +556,4 @@
 [pr/feat-calculus-ode-stiff] feat(calculus): add BDF solver for stiff ODEs
 [pr/feat-calculus-ode-stiff] test(calculus): verify on Van der Pol oscillator
 [pr/fix-stats-chi-squared-df] fix(stats): correct degrees of freedom in chi-squared test
+[pr/feat-prob-poisson-process] feat(prob): simulate inhomogeneous Poisson process
