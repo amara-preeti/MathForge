@@ -521,3 +521,4 @@
 [pr/feat-symbolic-groebner] feat(symbolic): implement Buchberger algorithm for Groebner basis
 [pr/feat-symbolic-groebner] test(symbolic): verify ideal membership
 [pr/feat-calculus-adaptive-simpson] feat(calculus): add adaptive Simpson quadrature
+[pr/feat-calculus-adaptive-simpson] test(calculus): verify on oscillatory functions
