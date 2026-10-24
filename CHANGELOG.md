@@ -283,3 +283,4 @@
 [feature/security-hardening] security: implement CORS policy
 [feature/security-hardening] security: add SQL injection prevention
 [feature/security-hardening] security: implement CSP headers
+[feature/testing-infrastructure] test: set up pytest with fixtures and conftest
