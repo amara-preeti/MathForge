@@ -246,3 +246,4 @@
 [feature/backend-api-stats] feat(api): add regression endpoint
 [feature/backend-api-stats] test(api): add statistics API tests
 [feature/backend-api-ml] feat(api): wire ML engine to /api/ml router
+[feature/backend-api-ml] feat(api): add model training endpoint
