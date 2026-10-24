@@ -262,3 +262,4 @@
 [feature/backend-workers] feat(worker): implement Celery task queue for heavy computations
 [feature/backend-workers] feat(worker): add computation progress tracking
 [feature/backend-workers] feat(worker): implement worker auto-scaling
+[feature/backend-workers] ops(worker): add worker health monitoring
