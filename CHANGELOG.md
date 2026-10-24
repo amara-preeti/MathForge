@@ -312,3 +312,4 @@
 [feature/accessibility] a11y: add screen reader support for math output
 [feature/accessibility] a11y: implement high-contrast color mode
 [feature/accessibility] a11y: add focus management for modal dialogs
+[feature/mobile-responsive] feat(ui): implement responsive grid layout
