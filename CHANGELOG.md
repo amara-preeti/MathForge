@@ -126,3 +126,4 @@
 [feature/notebook-engine] feat(notebook): add cell output caching
 [feature/notebook-engine] feat(notebook): implement notebook export (HTML, PDF, LaTeX)
 [feature/notebook-engine] test(notebook): add notebook execution tests
+[feature/notebook-collaboration] feat(notebook): add real-time collaboration via WebSockets
