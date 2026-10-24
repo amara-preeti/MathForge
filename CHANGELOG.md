@@ -378,3 +378,4 @@
 [feature/plugin-marketplace] feat(marketplace): add plugin submission workflow
 [feature/plugin-marketplace] feat(marketplace): implement plugin rating and reviews
 [feature/plugin-marketplace] feat(marketplace): add curated plugin collections
+[feature/workspace-management] feat(workspace): implement project workspace model
