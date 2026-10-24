@@ -533,3 +533,4 @@
 [pr/feat-graph-max-clique] test(graph): verify on known clique instances
 [pr/fix-eq-diophantine-negative] fix(eq): handle negative coefficients in linear Diophantine solver
 [pr/feat-signal-phase-vocoder] feat(signal): implement phase vocoder for time-stretching
+[pr/feat-signal-phase-vocoder] test(signal): verify pitch preservation
