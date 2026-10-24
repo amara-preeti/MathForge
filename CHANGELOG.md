@@ -490,3 +490,4 @@
 [pr/fix-plot-axis-labels] fix(plot): prevent axis label overlap with auto-rotation
 [pr/fix-plot-axis-labels] fix(plot): fix label truncation on small viewports
 [pr/feat-stats-kernel-density] feat(stats): implement kernel density estimation
+[pr/feat-stats-kernel-density] test(stats): verify KDE on Gaussian samples
