@@ -352,3 +352,4 @@
 [feature/async-computation] feat(async): add computation result expiry policy
 [feature/benchmarking-suite] bench: implement computation speed benchmarks
 [feature/benchmarking-suite] bench: add memory usage benchmarks
+[feature/benchmarking-suite] bench: implement accuracy benchmarks against known results
