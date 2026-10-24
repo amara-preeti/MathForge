@@ -220,3 +220,4 @@
 [feature/frontend-plot-ui] feat(ui): add plot customization panel
 [feature/frontend-plot-ui] feat(ui): implement zoom and pan controls
 [feature/frontend-plot-ui] feat(ui): add data export for plot data
+[feature/frontend-notebook-ui] feat(ui): implement notebook cell editor (CodeMirror)
