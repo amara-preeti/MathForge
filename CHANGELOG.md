@@ -198,3 +198,4 @@
 [feature/frontend-dashboard] feat(ui): implement main dashboard layout
 [feature/frontend-dashboard] feat(ui): add engine selector sidebar
 [feature/frontend-dashboard] feat(ui): implement recent computations panel
+[feature/frontend-dashboard] feat(ui): add quick action buttons
