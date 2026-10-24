@@ -424,3 +424,4 @@
 [refactor/frontend-components] refactor(ui): extract shared hooks for computation state
 [chore/dependency-updates] chore: update Python dependencies to latest stable
 [chore/dependency-updates] chore: update React and frontend dependencies
+[chore/dependency-updates] chore: pin dependency versions for reproducible builds
