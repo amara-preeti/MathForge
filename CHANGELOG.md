@@ -68,3 +68,4 @@
 [feature/probability-advanced] feat(prob): add copula functions for dependency modeling
 [feature/probability-advanced] fix(prob): fix CDF inversion for heavy-tailed distributions
 [feature/geometry-engine] feat(geo): implement 2D geometric primitives
+[feature/geometry-engine] feat(geo): add 3D geometric objects
