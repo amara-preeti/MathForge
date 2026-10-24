@@ -269,3 +269,4 @@
 [feature/ci-cd-pipeline] ci: add code coverage reporting
 [feature/ci-cd-pipeline] ci: implement semantic versioning with release automation
 [feature/documentation] docs: add comprehensive README with installation guide
+[feature/documentation] docs: add API reference documentation
