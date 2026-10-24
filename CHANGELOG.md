@@ -334,3 +334,4 @@
 [feature/sharing-collaboration] feat(share): implement public gallery for computations
 [feature/sharing-collaboration] feat(share): add embed mode for iframes
 [feature/expression-editor] feat(editor): implement math expression editor
+[feature/expression-editor] feat(editor): add autocomplete for math functions
