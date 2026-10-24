@@ -172,3 +172,4 @@
 [feature/signal-advanced] feat(signal): implement Hilbert transform
 [feature/signal-advanced] feat(signal): add convolution and correlation
 [feature/signal-advanced] feat(signal): implement Z-transform computation
+[feature/signal-advanced] fix(signal): fix aliasing artifact in downsampling
