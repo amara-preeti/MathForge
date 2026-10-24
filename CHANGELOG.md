@@ -161,3 +161,4 @@
 [feature/number-theory-advanced] feat(numth): implement Mobius function and inversion
 [feature/number-theory-advanced] feat(numth): add quadratic sieve for large factorization
 [feature/number-theory-advanced] feat(numth): implement elliptic curve point operations
+[feature/number-theory-advanced] docs(numth): document number theory module
