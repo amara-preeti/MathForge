@@ -164,3 +164,4 @@
 [feature/number-theory-advanced] docs(numth): document number theory module
 [feature/signal-processing] feat(signal): implement FFT (Cooley-Tukey algorithm)
 [feature/signal-processing] feat(signal): add windowing functions (Hamming, Hann, Blackman)
+[feature/signal-processing] feat(signal): implement FIR and IIR filter design
