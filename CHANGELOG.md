@@ -203,3 +203,4 @@
 [feature/frontend-symbolic-ui] feat(ui): add symbolic math input editor
 [feature/frontend-symbolic-ui] feat(ui): implement LaTeX preview for expressions
 [feature/frontend-symbolic-ui] feat(ui): add expression tree visualizer
+[feature/frontend-symbolic-ui] feat(ui): implement step-by-step solution display
