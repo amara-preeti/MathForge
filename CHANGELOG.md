@@ -110,3 +110,4 @@
 [feature/equation-symbolic] feat(eq): add inequality solver
 [feature/equation-symbolic] fix(eq): fix rational root theorem implementation
 [feature/plotting-engine] feat(plot): implement SVG-based 2D plotting engine
+[feature/plotting-engine] feat(plot): add line, scatter, bar, and histogram plots
