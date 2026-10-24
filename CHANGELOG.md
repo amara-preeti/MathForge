@@ -295,3 +295,4 @@
 [feature/monitoring-observability] ops: add Grafana dashboard configuration
 [feature/database-layer] feat(db): implement SQLAlchemy models for computation history
 [feature/database-layer] feat(db): add Alembic migration setup
+[feature/database-layer] feat(db): implement user session storage
