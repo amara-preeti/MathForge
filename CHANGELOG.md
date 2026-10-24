@@ -311,3 +311,4 @@
 [feature/accessibility] a11y: implement keyboard navigation throughout UI
 [feature/accessibility] a11y: add screen reader support for math output
 [feature/accessibility] a11y: implement high-contrast color mode
+[feature/accessibility] a11y: add focus management for modal dialogs
