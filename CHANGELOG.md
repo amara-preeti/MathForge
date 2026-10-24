@@ -482,3 +482,4 @@
 [pr/fix-ws-reconnect-backoff] fix(ws): implement exponential backoff on reconnect
 [pr/fix-ws-reconnect-backoff] test(ws): add reconnect simulation test
 [pr/feat-cache-lru-eviction] feat(cache): implement LRU eviction policy
+[pr/feat-cache-lru-eviction] test(cache): verify LRU behavior under load
