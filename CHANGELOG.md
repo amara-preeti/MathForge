@@ -321,3 +321,4 @@
 [feature/pwa-support] feat(pwa): add offline computation caching
 [feature/pwa-support] feat(pwa): implement background sync for queued computations
 [feature/docker-deployment] ops: add multi-stage Docker build for backend
+[feature/docker-deployment] ops: add nginx-based frontend Docker image
