@@ -89,3 +89,4 @@
 [feature/graph-advanced] feat(graph): add max flow (Ford-Fulkerson, Dinic)
 [feature/graph-advanced] feat(graph): implement graph coloring algorithms
 [feature/graph-advanced] feat(graph): add spectral graph theory computations
+[feature/optimization-engine] feat(opt): implement gradient descent variants (SGD, Adam, RMSProp)
