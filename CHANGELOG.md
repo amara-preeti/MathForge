@@ -483,3 +483,5 @@
 [pr/fix-ws-reconnect-backoff] test(ws): add reconnect simulation test
 [pr/feat-cache-lru-eviction] feat(cache): implement LRU eviction policy
 [pr/feat-cache-lru-eviction] test(cache): verify LRU behavior under load
+[pr/perf-symbolic-cse] perf(symbolic): common subexpression elimination pass
+[pr/perf-symbolic-cse] bench(symbolic): CSE benchmark on large expressions
