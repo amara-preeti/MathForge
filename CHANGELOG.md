@@ -345,3 +345,4 @@
 [feature/error-handling] feat(error): implement structured error response format
 [feature/error-handling] feat(error): add user-friendly error messages
 [feature/error-handling] feat(error): implement error boundary components in React
+[feature/error-handling] feat(error): add computation timeout handling
