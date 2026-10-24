@@ -165,3 +165,4 @@
 [feature/signal-processing] feat(signal): implement FFT (Cooley-Tukey algorithm)
 [feature/signal-processing] feat(signal): add windowing functions (Hamming, Hann, Blackman)
 [feature/signal-processing] feat(signal): implement FIR and IIR filter design
+[feature/signal-processing] feat(signal): add spectrogram computation
