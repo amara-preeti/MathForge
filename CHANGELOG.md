@@ -368,3 +368,4 @@
 [feature/wolfram-compat] docs(compat): document Wolfram compatibility layer
 [feature/jupyter-integration] feat(jupyter): implement Jupyter kernel protocol
 [feature/jupyter-integration] feat(jupyter): add MathForge as Jupyter kernel
+[feature/jupyter-integration] feat(jupyter): implement magic commands for MathForge DSL
