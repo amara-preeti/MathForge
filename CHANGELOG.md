@@ -450,3 +450,4 @@
 [pr/feat-calculus-romberg] feat(calculus): implement Romberg integration
 [pr/feat-calculus-romberg] test(calculus): verify Romberg accuracy on polynomials
 [pr/fix-stats-variance-edge-case] fix(stats): handle n=1 case in variance computation
+[pr/feat-prob-copula-frank] feat(prob): add Frank copula implementation
