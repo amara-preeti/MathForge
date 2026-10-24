@@ -513,3 +513,5 @@
 [pr/feat-export-jupyter-widgets] feat(export): embed interactive widgets in Jupyter export
 [pr/fix-plugin-sandbox-escape] security(plugin): patch sandbox escape via __builtins__
 [pr/fix-plugin-sandbox-escape] test(plugin): add sandbox security test
+[pr/feat-ui-expression-history] feat(ui): add expression history dropdown
+[pr/feat-ui-expression-history] fix(ui): persist history across sessions
