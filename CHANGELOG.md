@@ -292,3 +292,4 @@
 [feature/monitoring-observability] ops: implement structured logging with structlog
 [feature/monitoring-observability] ops: add distributed tracing with OpenTelemetry
 [feature/monitoring-observability] ops: implement health check endpoints
+[feature/monitoring-observability] ops: add Grafana dashboard configuration
