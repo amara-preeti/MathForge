@@ -177,3 +177,4 @@
 [feature/ml-engine] feat(ml): add decision tree with pruning
 [feature/ml-engine] feat(ml): implement Random Forest classifier and regressor
 [feature/ml-engine] feat(ml): add Support Vector Machine (SVM) with kernel trick
+[feature/ml-engine] feat(ml): implement K-Means and DBSCAN clustering
