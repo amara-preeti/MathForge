@@ -447,3 +447,4 @@
 [pr/fix-symbolic-parser-edge-cases] fix(symbolic): fix operator precedence for nested exprs
 [pr/feat-matrix-sparse-ops] feat(matrix): add sparse matrix element-wise ops
 [pr/feat-matrix-sparse-ops] test(matrix): add sparse ops unit tests
+[pr/feat-calculus-romberg] feat(calculus): implement Romberg integration
