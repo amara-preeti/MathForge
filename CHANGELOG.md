@@ -122,3 +122,4 @@
 [feature/plotting-advanced] fix(plot): fix axis label overlap in dense plots
 [feature/notebook-engine] feat(notebook): implement cell-based execution model
 [feature/notebook-engine] feat(notebook): add Python kernel integration
+[feature/notebook-engine] feat(notebook): implement Markdown cell rendering
