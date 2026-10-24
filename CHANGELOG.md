@@ -365,3 +365,4 @@
 [feature/wolfram-compat] feat(compat): implement Wolfram Language subset interpreter
 [feature/wolfram-compat] feat(compat): add Mathematica notebook import
 [feature/wolfram-compat] feat(compat): implement common Wolfram functions
+[feature/wolfram-compat] docs(compat): document Wolfram compatibility layer
