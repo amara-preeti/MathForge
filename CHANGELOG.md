@@ -125,3 +125,4 @@
 [feature/notebook-engine] feat(notebook): implement Markdown cell rendering
 [feature/notebook-engine] feat(notebook): add cell output caching
 [feature/notebook-engine] feat(notebook): implement notebook export (HTML, PDF, LaTeX)
+[feature/notebook-engine] test(notebook): add notebook execution tests
