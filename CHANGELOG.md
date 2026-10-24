@@ -434,3 +434,4 @@
 [release/v1.1.0] chore(release): update CHANGELOG for v1.1.0
 [release/v1.1.0] chore(release): generate release notes
 [release/v1.2.0] chore(release): bump version to v1.2.0
+[release/v1.2.0] chore(release): update CHANGELOG for v1.2.0 with ML engine release
