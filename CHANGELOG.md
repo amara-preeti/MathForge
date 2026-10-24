@@ -406,3 +406,4 @@
 [bugfix/numerical-stability] fix(numerical): handle near-singular matrices gracefully
 [bugfix/numerical-stability] fix(numerical): fix catastrophic cancellation in float subtraction
 [bugfix/numerical-stability] fix(numerical): improve convergence detection in iterative solvers
+[bugfix/ui-rendering] fix(ui): fix plot re-render on window resize
