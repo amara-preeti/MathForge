@@ -211,3 +211,4 @@
 [feature/frontend-calculus-ui] feat(ui): implement function input with LaTeX preview
 [feature/frontend-calculus-ui] feat(ui): add integral bounds UI
 [feature/frontend-calculus-ui] feat(ui): implement ODE initial conditions form
+[feature/frontend-calculus-ui] feat(ui): add calculus result visualization
