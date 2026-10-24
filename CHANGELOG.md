@@ -99,3 +99,4 @@
 [feature/optimization-advanced] feat(opt): implement genetic algorithm optimizer
 [feature/optimization-advanced] feat(opt): add simulated annealing
 [feature/optimization-advanced] feat(opt): implement particle swarm optimization
+[feature/optimization-advanced] docs(opt): document optimization algorithms and use cases
