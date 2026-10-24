@@ -472,3 +472,4 @@
 [pr/feat-dataset-sql-group] feat(dataset): implement SQL GROUP BY semantics
 [pr/feat-dataset-sql-group] test(dataset): add groupby aggregation tests
 [pr/feat-export-svg-batch] feat(export): add batch SVG export
+[pr/feat-export-svg-batch] perf(export): parallelize SVG rendering
