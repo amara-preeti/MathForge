@@ -33,3 +33,4 @@
 [feature/calculus-multivariable] feat(calculus): add partial derivative computation
 [feature/calculus-multivariable] feat(calculus): implement gradient and Hessian
 [feature/calculus-multivariable] feat(calculus): add double and triple integral support
+[feature/calculus-multivariable] feat(calculus): implement divergence and curl operators
