@@ -517,3 +517,4 @@
 [pr/feat-ui-expression-history] fix(ui): persist history across sessions
 [pr/fix-api-cors-preflight] fix(api): correctly handle OPTIONS preflight for all routes
 [pr/perf-graph-bfs-queue] perf(graph): replace list with deque for BFS O(1) popleft
+[pr/perf-graph-bfs-queue] bench(graph): show 3x speedup on large graphs
