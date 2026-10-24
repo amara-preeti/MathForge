@@ -219,3 +219,4 @@
 [feature/frontend-plot-ui] feat(ui): implement interactive plot canvas
 [feature/frontend-plot-ui] feat(ui): add plot customization panel
 [feature/frontend-plot-ui] feat(ui): implement zoom and pan controls
+[feature/frontend-plot-ui] feat(ui): add data export for plot data
