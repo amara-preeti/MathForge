@@ -35,3 +35,4 @@
 [feature/calculus-multivariable] feat(calculus): add double and triple integral support
 [feature/calculus-multivariable] feat(calculus): implement divergence and curl operators
 [feature/calculus-multivariable] fix(calculus): fix singularity handling in adaptive quadrature
+[feature/numerical-engine] feat(numerical): implement Newton-Raphson root finding
