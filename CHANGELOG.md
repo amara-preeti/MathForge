@@ -506,3 +506,5 @@
 [pr/feat-ml-attention-mechanism] feat(ml): implement scaled dot-product attention
 [pr/feat-ml-attention-mechanism] test(ml): verify attention output shape
 [pr/fix-numth-pollard-cycle] fix(numth): fix cycle detection in Pollard rho
+[pr/feat-physics-em-simulation] feat(physics): simulate EM field on 2D grid
+[pr/feat-physics-em-simulation] test(physics): verify Gauss law on point charge
