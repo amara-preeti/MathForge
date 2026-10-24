@@ -594,3 +594,4 @@
 [pr/feat-stats-bootstrap-bca] feat(stats): implement BCa bootstrap confidence intervals
 [pr/feat-stats-bootstrap-bca] test(stats): verify BCa vs percentile intervals
 [pr/fix-prob-inverse-cdf-beta] fix(prob): fix numerical instability in Beta CDF inversion
+[pr/feat-geo-mesh-simplification] feat(geo): implement Quadric Error Metrics mesh simplification
