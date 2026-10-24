@@ -568,3 +568,4 @@
 [pr/feat-signal-mel-spectrogram] feat(signal): compute Mel spectrogram for audio
 [pr/feat-signal-mel-spectrogram] test(signal): verify filterbank energy sums
 [pr/feat-ml-transformer-block] feat(ml): implement Transformer encoder block
+[pr/feat-ml-transformer-block] test(ml): verify residual connection shapes
