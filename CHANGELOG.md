@@ -141,3 +141,4 @@
 [feature/dataset-advanced] feat(dataset): add missing value imputation strategies
 [feature/dataset-advanced] fix(dataset): fix memory leak in large dataset streaming
 [feature/export-engine] feat(export): implement PDF export via LaTeX backend
+[feature/export-engine] feat(export): add HTML export with embedded plots
