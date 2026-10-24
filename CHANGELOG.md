@@ -239,3 +239,4 @@
 [feature/backend-api-matrix] test(api): add API integration tests for matrix routes
 [feature/backend-api-calculus] feat(api): wire calculus engine to /api/calculus router
 [feature/backend-api-calculus] feat(api): add numerical integration endpoint
+[feature/backend-api-calculus] feat(api): add ODE solver endpoint
