@@ -163,3 +163,4 @@
 [feature/number-theory-advanced] feat(numth): implement elliptic curve point operations
 [feature/number-theory-advanced] docs(numth): document number theory module
 [feature/signal-processing] feat(signal): implement FFT (Cooley-Tukey algorithm)
+[feature/signal-processing] feat(signal): add windowing functions (Hamming, Hann, Blackman)
