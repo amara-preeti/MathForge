@@ -297,3 +297,4 @@
 [feature/database-layer] feat(db): add Alembic migration setup
 [feature/database-layer] feat(db): implement user session storage
 [feature/database-layer] feat(db): add dataset metadata persistence
+[feature/database-layer] test(db): add database integration tests
