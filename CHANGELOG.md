@@ -555,3 +555,4 @@
 [pr/feat-symbolic-limit-lhopital] test(symbolic): verify limits of indeterminate forms
 [pr/feat-calculus-ode-stiff] feat(calculus): add BDF solver for stiff ODEs
 [pr/feat-calculus-ode-stiff] test(calculus): verify on Van der Pol oscillator
+[pr/fix-stats-chi-squared-df] fix(stats): correct degrees of freedom in chi-squared test
