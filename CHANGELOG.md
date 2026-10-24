@@ -328,3 +328,4 @@
 [feature/cloud-storage] feat(storage): add S3-compatible storage backend
 [feature/cloud-storage] feat(storage): implement dataset upload/download
 [feature/cloud-storage] feat(storage): add notebook cloud sync
+[feature/cloud-storage] feat(storage): implement large file chunked upload
