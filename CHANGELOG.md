@@ -135,3 +135,4 @@
 [feature/dataset-engine] feat(dataset): implement data cleaning pipeline
 [feature/dataset-engine] feat(dataset): add data transformation DSL
 [feature/dataset-engine] feat(dataset): implement lazy evaluation for large datasets
+[feature/dataset-engine] test(dataset): add data pipeline integration tests
