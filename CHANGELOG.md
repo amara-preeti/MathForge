@@ -316,3 +316,4 @@
 [feature/mobile-responsive] feat(ui): add touch-friendly controls
 [feature/mobile-responsive] feat(ui): implement mobile navigation drawer
 [feature/mobile-responsive] feat(ui): optimize plot rendering for small screens
+[feature/pwa-support] feat(pwa): add Service Worker for offline support
