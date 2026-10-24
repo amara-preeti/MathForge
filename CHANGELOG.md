@@ -264,3 +264,4 @@
 [feature/backend-workers] feat(worker): implement worker auto-scaling
 [feature/backend-workers] ops(worker): add worker health monitoring
 [feature/ci-cd-pipeline] ci: add GitHub Actions workflow for Python backend
+[feature/ci-cd-pipeline] ci: add frontend build and test workflow
