@@ -427,3 +427,4 @@
 [chore/dependency-updates] chore: pin dependency versions for reproducible builds
 [chore/dependency-updates] chore: add dependency vulnerability scanning
 [chore/code-quality] chore: add ruff and mypy for Python linting
+[chore/code-quality] chore: add ESLint and Prettier for TypeScript
