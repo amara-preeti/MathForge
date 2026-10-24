@@ -52,3 +52,4 @@
 [feature/statistics-engine] feat(stats): implement bootstrap confidence intervals
 [feature/statistics-engine] test(stats): add statistical correctness tests against known datasets
 [feature/statistics-engine] docs(stats): add statistical methods documentation
+[feature/statistics-advanced] feat(stats): add Bayesian inference engine
