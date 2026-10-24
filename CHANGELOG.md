@@ -302,3 +302,4 @@
 [feature/websocket-realtime] feat(ws): add real-time computation progress streaming
 [feature/websocket-realtime] feat(ws): implement collaborative session protocol
 [feature/websocket-realtime] fix(ws): fix WebSocket reconnection handling
+[feature/internationalization] i18n: add i18n framework setup
