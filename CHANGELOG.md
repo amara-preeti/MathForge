@@ -477,3 +477,5 @@
 [pr/feat-plugin-hot-reload] test(plugin): add plugin reload lifecycle test
 [pr/fix-api-timeout-handling] fix(api): return 408 on computation timeout
 [pr/fix-api-timeout-handling] test(api): add timeout integration test
+[pr/feat-auth-refresh-token] feat(auth): implement JWT refresh token rotation
+[pr/feat-auth-refresh-token] test(auth): add refresh token expiry test
