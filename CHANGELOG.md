@@ -133,3 +133,4 @@
 [feature/dataset-engine] feat(dataset): implement CSV and JSON data loading
 [feature/dataset-engine] feat(dataset): add Parquet and Arrow format support
 [feature/dataset-engine] feat(dataset): implement data cleaning pipeline
+[feature/dataset-engine] feat(dataset): add data transformation DSL
