@@ -281,3 +281,4 @@
 [feature/security-hardening] security: implement input sanitization for all endpoints
 [feature/security-hardening] security: add rate limiting middleware
 [feature/security-hardening] security: implement CORS policy
+[feature/security-hardening] security: add SQL injection prevention
