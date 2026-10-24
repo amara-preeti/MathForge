@@ -610,3 +610,4 @@
 [pr/feat-dataset-arrow-zero-copy] bench(dataset): near-zero overhead data transfer
 [pr/feat-export-interactive-html] feat(export): embed interactive Plotly charts in HTML export
 [pr/feat-export-interactive-html] test(export): verify chart interactivity in browser
+[pr/fix-plugin-circular-deps] fix(plugin): detect and report circular plugin dependencies
