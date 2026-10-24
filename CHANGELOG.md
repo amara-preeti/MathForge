@@ -389,3 +389,4 @@
 [feature/keyboard-shortcuts] feat(shortcuts): implement global keyboard shortcut system
 [feature/keyboard-shortcuts] feat(shortcuts): add shortcut hints overlay
 [feature/keyboard-shortcuts] feat(shortcuts): implement vim-mode for expression editor
+[feature/keyboard-shortcuts] fix(shortcuts): fix shortcut conflicts with browser defaults
