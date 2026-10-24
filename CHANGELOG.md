@@ -541,3 +541,4 @@
 [pr/feat-physics-quantum-gates] feat(physics): add Hadamard, CNOT, Toffoli gates
 [pr/feat-physics-quantum-gates] test(physics): verify quantum gate unitarity
 [pr/feat-plot-3d-interactive] feat(plot): add trackball rotation for 3D plots
+[pr/feat-plot-3d-interactive] feat(plot): add pinch-to-zoom on touch devices
