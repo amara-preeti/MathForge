@@ -592,3 +592,4 @@
 [pr/feat-calculus-pde-heat] feat(calculus): solve heat equation with Crank-Nicolson
 [pr/feat-calculus-pde-heat] test(calculus): verify conservation of energy
 [pr/feat-stats-bootstrap-bca] feat(stats): implement BCa bootstrap confidence intervals
+[pr/feat-stats-bootstrap-bca] test(stats): verify BCa vs percentile intervals
