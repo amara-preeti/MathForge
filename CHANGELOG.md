@@ -158,3 +158,4 @@
 [feature/number-theory] feat(numth): add continued fraction expansion
 [feature/number-theory] test(numth): add number theory algorithm tests
 [feature/number-theory-advanced] feat(numth): add Euler's totient function
+[feature/number-theory-advanced] feat(numth): implement Mobius function and inversion
