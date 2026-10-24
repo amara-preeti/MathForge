@@ -306,3 +306,4 @@
 [feature/internationalization] i18n: add English locale strings
 [feature/internationalization] i18n: add Spanish locale translations
 [feature/internationalization] i18n: add French locale translations
+[feature/internationalization] i18n: add right-to-left layout support
