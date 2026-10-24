@@ -577,3 +577,4 @@
 [pr/feat-plot-contour-labels] fix(plot): fix label collision near plot edges
 [pr/feat-dataset-join-hash] feat(dataset): implement hash join for large datasets
 [pr/feat-dataset-join-hash] bench(dataset): 5x speedup over nested loop join
+[pr/fix-export-pdf-unicode] fix(export): handle Unicode characters in PDF export
