@@ -71,3 +71,4 @@
 [feature/geometry-engine] feat(geo): add 3D geometric objects
 [feature/geometry-engine] feat(geo): implement computational geometry algorithms
 [feature/geometry-engine] feat(geo): add convex hull computation (QuickHull)
+[feature/geometry-engine] feat(geo): implement Voronoi diagram generation
