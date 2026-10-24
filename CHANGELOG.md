@@ -405,3 +405,4 @@
 [bugfix/numerical-stability] fix(numerical): improve condition number estimation
 [bugfix/numerical-stability] fix(numerical): handle near-singular matrices gracefully
 [bugfix/numerical-stability] fix(numerical): fix catastrophic cancellation in float subtraction
+[bugfix/numerical-stability] fix(numerical): improve convergence detection in iterative solvers
