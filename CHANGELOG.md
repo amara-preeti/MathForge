@@ -392,3 +392,4 @@
 [feature/keyboard-shortcuts] fix(shortcuts): fix shortcut conflicts with browser defaults
 [feature/onboarding] feat(onboarding): implement interactive tutorial
 [feature/onboarding] feat(onboarding): add sample computations gallery
+[feature/onboarding] feat(onboarding): implement feature discovery tooltips
