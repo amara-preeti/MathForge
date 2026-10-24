@@ -453,3 +453,4 @@
 [pr/feat-prob-copula-frank] feat(prob): add Frank copula implementation
 [pr/feat-prob-copula-frank] docs(prob): document Frank copula parameters
 [pr/perf-matrix-multiply-cache] perf(matrix): cache-friendly matrix multiply layout
+[pr/perf-matrix-multiply-cache] bench(matrix): add multiply benchmark
