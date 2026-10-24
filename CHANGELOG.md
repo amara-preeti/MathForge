@@ -205,3 +205,4 @@
 [feature/frontend-symbolic-ui] feat(ui): add expression tree visualizer
 [feature/frontend-symbolic-ui] feat(ui): implement step-by-step solution display
 [feature/frontend-matrix-ui] feat(ui): implement matrix input grid component
+[feature/frontend-matrix-ui] feat(ui): add matrix operation palette
