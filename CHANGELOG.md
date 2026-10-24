@@ -473,3 +473,5 @@
 [pr/feat-dataset-sql-group] test(dataset): add groupby aggregation tests
 [pr/feat-export-svg-batch] feat(export): add batch SVG export
 [pr/feat-export-svg-batch] perf(export): parallelize SVG rendering
+[pr/feat-plugin-hot-reload] feat(plugin): implement plugin hot-reload
+[pr/feat-plugin-hot-reload] test(plugin): add plugin reload lifecycle test
