@@ -634,3 +634,4 @@
 [pr/feat-api-graphql-endpoint] feat(api): add GraphQL endpoint alongside REST
 [pr/feat-api-graphql-endpoint] test(api): add GraphQL query integration tests
 [pr/feat-ui-formula-library] feat(ui): add searchable formula library panel
+[pr/feat-ui-formula-library] feat(ui): add one-click formula insertion
