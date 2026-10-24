@@ -44,3 +44,4 @@
 [feature/numerical-interpolation] feat(numerical): implement cubic spline interpolation
 [feature/numerical-interpolation] feat(numerical): add Chebyshev interpolation nodes
 [feature/numerical-interpolation] feat(numerical): implement barycentric rational interpolation
+[feature/numerical-interpolation] docs(numerical): document interpolation accuracy and stability
