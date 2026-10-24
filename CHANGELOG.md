@@ -441,3 +441,4 @@
 [release/v1.3.0] chore(release): update documentation site
 [release/v2.0.0-beta] chore(release): prepare v2.0.0 beta release
 [release/v2.0.0-beta] chore(release): update CHANGELOG for v2.0.0-beta
+[release/v2.0.0-beta] chore(release): add upgrade guide from v1.x to v2.0
