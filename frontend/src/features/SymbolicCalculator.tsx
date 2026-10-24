@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import 'katex/dist/katex.min.css';
-import { InlineMath, BlockMath } from 'react-katex';
+import { BlockMath } from 'react-katex';
 
 export const SymbolicCalculator: React.FC = () => {
     const [expression, setExpression] = useState('x^2 + 2*x + 1');

@@ -10,7 +10,7 @@ import { ProjectManager } from './features/ProjectManager'
 import NumberTheoryLab from './features/NumberTheoryLab'
 import PhysicsSandbox from './features/PhysicsSandbox'
 import {
-  LayoutDashboard, Function, PenTool, Sigma, Grid2X2,
+  LayoutDashboard, SquareFunction, PenTool, Sigma, Grid2X2,
   BookOpen, BarChart2, FolderOpen, Hash, Atom,
   ChevronRight, Wifi, WifiOff
 } from 'lucide-react'
@@ -25,7 +25,7 @@ interface NavItem { id: TabId; label: string; icon: React.ReactNode; group: stri
 const NAV_ITEMS: NavItem[] = [
   { id: 'dashboard',     label: 'Dashboard',         icon: <LayoutDashboard size={16}/>, group: 'General' },
   { id: 'projects',      label: 'Projects',          icon: <FolderOpen size={16}/>,      group: 'General' },
-  { id: 'symbolic',      label: 'Symbolic CAS',      icon: <Function size={16}/>,        group: 'Algebra' },
+  { id: 'symbolic',      label: 'Symbolic CAS',      icon: <SquareFunction size={16}/>,  group: 'Algebra' },
   { id: 'equation',      label: 'Equation Solver',   icon: <PenTool size={16}/>,         group: 'Algebra' },
   { id: 'matrix',        label: 'Matrix Lab',        icon: <Grid2X2 size={16}/>,         group: 'Algebra' },
   { id: 'calculus',      label: 'Calculus Lab',      icon: <Sigma size={16}/>,           group: 'Analysis' },
