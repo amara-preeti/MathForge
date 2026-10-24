@@ -257,3 +257,4 @@
 [feature/backend-auth] test(auth): add authentication flow tests
 [feature/backend-caching] feat(cache): implement Redis-based result caching
 [feature/backend-caching] feat(cache): add cache invalidation strategies
+[feature/backend-caching] feat(cache): implement computation memoization
