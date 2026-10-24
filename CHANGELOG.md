@@ -145,3 +145,4 @@
 [feature/export-engine] feat(export): implement Jupyter notebook export
 [feature/export-engine] feat(export): add Word/DOCX export
 [feature/export-engine] feat(export): implement MATLAB .m file export
+[feature/plugin-engine] feat(plugin): implement plugin discovery and loading
