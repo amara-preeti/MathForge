@@ -216,3 +216,4 @@
 [feature/frontend-stats-ui] feat(ui): add statistical test selector
 [feature/frontend-stats-ui] feat(ui): implement results dashboard with charts
 [feature/frontend-stats-ui] feat(ui): add hypothesis test interpretation panel
+[feature/frontend-plot-ui] feat(ui): implement interactive plot canvas
