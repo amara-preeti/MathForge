@@ -582,3 +582,4 @@
 [pr/feat-plugin-marketplace-ratings] fix(plugin): fix rating average for < 5 reviews
 [pr/feat-ui-mobile-swipe] feat(ui): add swipe gesture for mobile navigation
 [pr/feat-ui-mobile-swipe] test(ui): add Playwright swipe gesture test
+[pr/fix-auth-jwt-expiry-clock] fix(auth): add clock skew tolerance in JWT validation
