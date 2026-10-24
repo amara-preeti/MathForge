@@ -1,0 +1,17 @@
+\node_modules\
+\venv\
+\.venv\
+\__pycache__\
+\.pytest_cache\
+\dist\
+\build\
+\.next\
+\.cache\
+\coverage\
+.pyc
+.pyo
+.log
+.tmp
+MathForge_complete.zip
+MathForge_v2.zip
+MathForge_clean
