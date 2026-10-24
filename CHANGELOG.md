@@ -419,3 +419,4 @@
 [refactor/engine-interfaces] refactor: extract shared computation context
 [refactor/engine-interfaces] refactor: centralize error handling in engine layer
 [refactor/frontend-components] refactor(ui): extract common form components
+[refactor/frontend-components] refactor(ui): create design system component library
