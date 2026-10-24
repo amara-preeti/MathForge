@@ -119,3 +119,4 @@
 [feature/plotting-advanced] feat(plot): implement polar and complex plane plots
 [feature/plotting-advanced] feat(plot): add parametric curve plotting
 [feature/plotting-advanced] feat(plot): implement vector field visualization
+[feature/plotting-advanced] fix(plot): fix axis label overlap in dense plots
