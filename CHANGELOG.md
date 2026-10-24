@@ -429,3 +429,4 @@
 [chore/code-quality] chore: add ruff and mypy for Python linting
 [chore/code-quality] chore: add ESLint and Prettier for TypeScript
 [chore/code-quality] chore: configure pre-commit hooks
+[chore/code-quality] chore: add code complexity metrics reporting
