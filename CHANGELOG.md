@@ -324,3 +324,4 @@
 [feature/docker-deployment] ops: add nginx-based frontend Docker image
 [feature/docker-deployment] ops: implement docker-compose for local development
 [feature/docker-deployment] ops: add Kubernetes deployment manifests
+[feature/docker-deployment] ops: add Helm chart for production deployment
