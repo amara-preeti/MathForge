@@ -47,3 +47,4 @@
 [feature/numerical-interpolation] docs(numerical): document interpolation accuracy and stability
 [feature/statistics-engine] feat(stats): implement descriptive statistics (mean, variance, skewness, kurtosis)
 [feature/statistics-engine] feat(stats): add probability distributions (normal, binomial, Poisson)
+[feature/statistics-engine] feat(stats): implement hypothesis testing (t-test, chi-squared, ANOVA)
