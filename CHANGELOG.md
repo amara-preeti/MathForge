@@ -87,3 +87,4 @@
 [feature/graph-advanced] feat(graph): add topological sort
 [feature/graph-advanced] feat(graph): implement strongly connected components (Tarjan)
 [feature/graph-advanced] feat(graph): add max flow (Ford-Fulkerson, Dinic)
+[feature/graph-advanced] feat(graph): implement graph coloring algorithms
