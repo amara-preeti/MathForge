@@ -500,3 +500,4 @@
 [pr/feat-geo-convex-hull-3d] test(geo): verify 3D convex hull volume
 [pr/feat-graph-community-detection] feat(graph): implement Louvain community detection
 [pr/feat-graph-community-detection] test(graph): verify modularity improvement
+[pr/fix-eq-linear-system-singular] fix(eq): detect and report singular systems gracefully
