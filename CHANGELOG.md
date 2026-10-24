@@ -200,3 +200,4 @@
 [feature/frontend-dashboard] feat(ui): implement recent computations panel
 [feature/frontend-dashboard] feat(ui): add quick action buttons
 [feature/frontend-dashboard] fix(ui): fix responsive layout on mobile viewports
+[feature/frontend-symbolic-ui] feat(ui): add symbolic math input editor
