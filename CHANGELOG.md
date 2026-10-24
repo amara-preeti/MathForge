@@ -626,3 +626,4 @@
 [pr/chore-update-react-19] chore: migrate to React 19 concurrent features
 [pr/docs-api-reference-v2] docs: rewrite API reference for v2 endpoints
 [pr/docs-api-reference-v2] docs: add request/response examples for all routes
+[pr/ci-add-matrix-testing] ci: test on Python 3.11, 3.12, 3.13 matrix
