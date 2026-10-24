@@ -320,3 +320,4 @@
 [feature/pwa-support] feat(pwa): implement progressive web app manifest
 [feature/pwa-support] feat(pwa): add offline computation caching
 [feature/pwa-support] feat(pwa): implement background sync for queued computations
+[feature/docker-deployment] ops: add multi-stage Docker build for backend
