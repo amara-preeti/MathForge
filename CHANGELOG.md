@@ -393,3 +393,4 @@
 [feature/onboarding] feat(onboarding): implement interactive tutorial
 [feature/onboarding] feat(onboarding): add sample computations gallery
 [feature/onboarding] feat(onboarding): implement feature discovery tooltips
+[feature/onboarding] feat(onboarding): add welcome wizard for new users
