@@ -338,3 +338,4 @@
 [feature/expression-editor] feat(editor): implement syntax highlighting for MathForge DSL
 [feature/expression-editor] feat(editor): add bracket matching and auto-close
 [feature/expression-editor] fix(editor): fix cursor position after auto-complete insertion
+[feature/computation-history] feat(history): implement computation history storage
