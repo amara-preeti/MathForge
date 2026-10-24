@@ -579,3 +579,4 @@
 [pr/feat-dataset-join-hash] bench(dataset): 5x speedup over nested loop join
 [pr/fix-export-pdf-unicode] fix(export): handle Unicode characters in PDF export
 [pr/feat-plugin-marketplace-ratings] feat(plugin): display star ratings in marketplace
+[pr/feat-plugin-marketplace-ratings] fix(plugin): fix rating average for < 5 reviews
