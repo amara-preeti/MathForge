@@ -193,3 +193,4 @@
 [feature/physics-engine] test(physics): add physics simulation validation tests
 [feature/physics-quantum] feat(physics): add Schrodinger equation solver
 [feature/physics-quantum] feat(physics): implement quantum gate simulation
+[feature/physics-quantum] feat(physics): add quantum circuit visualization
