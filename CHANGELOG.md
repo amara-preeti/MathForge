@@ -78,3 +78,4 @@
 [feature/geometry-transformations] feat(geo): add coordinate system conversions
 [feature/geometry-transformations] feat(geo): implement geodesic computations on sphere
 [feature/geometry-transformations] docs(geo): document geometry engine API
+[feature/graph-engine] feat(graph): implement adjacency list and matrix representations
