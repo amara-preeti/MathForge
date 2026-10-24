@@ -608,3 +608,4 @@
 [pr/feat-plot-polar-spiral] feat(plot): add Archimedean and logarithmic spiral plots
 [pr/feat-dataset-arrow-zero-copy] feat(dataset): enable zero-copy Arrow IPC data sharing
 [pr/feat-dataset-arrow-zero-copy] bench(dataset): near-zero overhead data transfer
+[pr/feat-export-interactive-html] feat(export): embed interactive Plotly charts in HTML export
