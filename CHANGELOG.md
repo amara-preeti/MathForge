@@ -227,3 +227,4 @@
 [feature/frontend-settings] feat(ui): implement user preferences panel
 [feature/frontend-settings] feat(ui): add theme switcher (light/dark/high-contrast)
 [feature/frontend-settings] feat(ui): implement engine configuration settings
+[feature/frontend-settings] feat(ui): add keyboard shortcut customization
