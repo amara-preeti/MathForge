@@ -561,3 +561,4 @@
 [pr/perf-numerical-fft-radix4] perf(numerical): add radix-4 FFT for power-of-4 sizes
 [pr/perf-numerical-fft-radix4] bench(numerical): 25% speedup over radix-2
 [pr/feat-geo-voronoi-incremental] feat(geo): implement incremental Voronoi construction
+[pr/feat-geo-voronoi-incremental] test(geo): verify Fortune's and incremental agree
