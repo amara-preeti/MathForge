@@ -182,3 +182,4 @@
 [feature/ml-engine] test(ml): add ML model accuracy tests on standard datasets
 [feature/ml-deep-learning] feat(ml): implement backpropagation with automatic differentiation
 [feature/ml-deep-learning] feat(ml): add Adam, SGD, and RMSProp optimizers
+[feature/ml-deep-learning] feat(ml): implement batch normalization
