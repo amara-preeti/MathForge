@@ -26,3 +26,4 @@
 [feature/calculus-engine] feat(calculus): implement numerical differentiation (finite differences)
 [feature/calculus-engine] feat(calculus): add adaptive Gaussian quadrature
 [feature/calculus-engine] feat(calculus): implement Romberg integration
+[feature/calculus-engine] feat(calculus): add ODE solvers (RK4, RK45)
