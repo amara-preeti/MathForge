@@ -123,3 +123,4 @@
 [feature/notebook-engine] feat(notebook): implement cell-based execution model
 [feature/notebook-engine] feat(notebook): add Python kernel integration
 [feature/notebook-engine] feat(notebook): implement Markdown cell rendering
+[feature/notebook-engine] feat(notebook): add cell output caching
