@@ -229,3 +229,4 @@
 [feature/frontend-settings] feat(ui): implement engine configuration settings
 [feature/frontend-settings] feat(ui): add keyboard shortcut customization
 [feature/backend-api-symbolic] feat(api): wire symbolic engine to /api/symbolic router
+[feature/backend-api-symbolic] feat(api): add expression simplification endpoint
