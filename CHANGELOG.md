@@ -18,3 +18,4 @@
 [feature/matrix-engine-core] feat(matrix): implement eigenvalue computation (QR algorithm)
 [feature/matrix-engine-core] test(matrix): add comprehensive matrix operation tests
 [feature/matrix-engine-core] perf(matrix): optimize matrix multiplication with BLAS-style blocking
+[feature/matrix-advanced] feat(matrix): add SVD decomposition
