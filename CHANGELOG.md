@@ -633,3 +633,5 @@
 [pr/fix-db-migration-v2] fix(db): correct Alembic migration for computation_history table
 [pr/feat-api-graphql-endpoint] feat(api): add GraphQL endpoint alongside REST
 [pr/feat-api-graphql-endpoint] test(api): add GraphQL query integration tests
+[pr/feat-ui-formula-library] feat(ui): add searchable formula library panel
+[pr/feat-ui-formula-library] feat(ui): add one-click formula insertion
