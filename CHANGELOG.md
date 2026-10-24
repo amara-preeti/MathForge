@@ -593,3 +593,4 @@
 [pr/feat-calculus-pde-heat] test(calculus): verify conservation of energy
 [pr/feat-stats-bootstrap-bca] feat(stats): implement BCa bootstrap confidence intervals
 [pr/feat-stats-bootstrap-bca] test(stats): verify BCa vs percentile intervals
+[pr/fix-prob-inverse-cdf-beta] fix(prob): fix numerical instability in Beta CDF inversion
