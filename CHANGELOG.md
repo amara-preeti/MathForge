@@ -395,3 +395,4 @@
 [feature/onboarding] feat(onboarding): implement feature discovery tooltips
 [feature/onboarding] feat(onboarding): add welcome wizard for new users
 [feature/search] feat(search): implement full-text search for computation history
+[feature/search] feat(search): add function and constant search
