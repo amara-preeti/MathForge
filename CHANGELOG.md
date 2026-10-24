@@ -348,3 +348,4 @@
 [feature/error-handling] feat(error): add computation timeout handling
 [feature/async-computation] feat(async): implement async computation queue
 [feature/async-computation] feat(async): add computation status polling
+[feature/async-computation] feat(async): implement cancellation for long-running jobs
