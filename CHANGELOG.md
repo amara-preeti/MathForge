@@ -56,3 +56,4 @@
 [feature/statistics-advanced] feat(stats): implement MCMC sampling (Metropolis-Hastings)
 [feature/statistics-advanced] feat(stats): add time series analysis (ARIMA)
 [feature/statistics-advanced] feat(stats): implement PCA and factor analysis
+[feature/statistics-advanced] fix(stats): fix numerical issue in log-likelihood computation
