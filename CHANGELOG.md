@@ -357,3 +357,4 @@
 [feature/code-generation] feat(codegen): implement Python code generation from computations
 [feature/code-generation] feat(codegen): add NumPy code export
 [feature/code-generation] feat(codegen): implement MATLAB code export
+[feature/code-generation] feat(codegen): add Julia code generation
