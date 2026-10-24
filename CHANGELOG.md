@@ -567,3 +567,4 @@
 [pr/fix-eq-polynomial-sturm] fix(eq): implement Sturm sequence for real root isolation
 [pr/feat-signal-mel-spectrogram] feat(signal): compute Mel spectrogram for audio
 [pr/feat-signal-mel-spectrogram] test(signal): verify filterbank energy sums
+[pr/feat-ml-transformer-block] feat(ml): implement Transformer encoder block
