@@ -588,3 +588,4 @@
 [pr/perf-symbolic-pattern-index] perf(symbolic): index patterns by root node type
 [pr/perf-symbolic-pattern-index] bench(symbolic): 4x faster simplification dispatch
 [pr/feat-notebook-auto-save] feat(notebook): auto-save every 60s with conflict detection
+[pr/feat-notebook-auto-save] test(notebook): simulate concurrent save conflict
