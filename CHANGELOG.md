@@ -208,3 +208,4 @@
 [feature/frontend-matrix-ui] feat(ui): add matrix operation palette
 [feature/frontend-matrix-ui] feat(ui): implement matrix visualization (heatmap)
 [feature/frontend-matrix-ui] feat(ui): add eigenvalue/eigenvector display
+[feature/frontend-calculus-ui] feat(ui): implement function input with LaTeX preview
