@@ -381,3 +381,4 @@
 [feature/workspace-management] feat(workspace): implement project workspace model
 [feature/workspace-management] feat(workspace): add workspace file browser
 [feature/workspace-management] feat(workspace): implement workspace templates
+[feature/workspace-management] feat(workspace): add workspace sharing
