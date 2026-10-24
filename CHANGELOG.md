@@ -455,3 +455,5 @@
 [pr/perf-matrix-multiply-cache] perf(matrix): cache-friendly matrix multiply layout
 [pr/perf-matrix-multiply-cache] bench(matrix): add multiply benchmark
 [pr/fix-numerical-bisection-nan] fix(numerical): guard against NaN in bisection method
+[pr/feat-geometry-kd-tree] feat(geo): implement KD-tree for point queries
+[pr/feat-geometry-kd-tree] test(geo): add KD-tree nearest-neighbor tests
