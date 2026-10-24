@@ -260,3 +260,4 @@
 [feature/backend-caching] feat(cache): implement computation memoization
 [feature/backend-caching] perf(cache): optimize cache key generation
 [feature/backend-workers] feat(worker): implement Celery task queue for heavy computations
+[feature/backend-workers] feat(worker): add computation progress tracking
