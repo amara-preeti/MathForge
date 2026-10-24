@@ -86,3 +86,4 @@
 [feature/graph-engine] test(graph): add graph algorithm tests on benchmark graphs
 [feature/graph-advanced] feat(graph): add topological sort
 [feature/graph-advanced] feat(graph): implement strongly connected components (Tarjan)
+[feature/graph-advanced] feat(graph): add max flow (Ford-Fulkerson, Dinic)
