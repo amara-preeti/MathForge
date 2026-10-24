@@ -377,3 +377,4 @@
 [feature/plugin-marketplace] feat(marketplace): implement plugin marketplace backend
 [feature/plugin-marketplace] feat(marketplace): add plugin submission workflow
 [feature/plugin-marketplace] feat(marketplace): implement plugin rating and reviews
+[feature/plugin-marketplace] feat(marketplace): add curated plugin collections
