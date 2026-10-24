@@ -359,3 +359,4 @@
 [feature/code-generation] feat(codegen): implement MATLAB code export
 [feature/code-generation] feat(codegen): add Julia code generation
 [feature/latex-engine] feat(latex): implement LaTeX input parsing
+[feature/latex-engine] feat(latex): add LaTeX to AST conversion
