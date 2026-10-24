@@ -31,3 +31,4 @@
 [feature/calculus-engine] test(calculus): add integration accuracy benchmarks
 [feature/calculus-engine] docs(calculus): document numerical methods and error bounds
 [feature/calculus-multivariable] feat(calculus): add partial derivative computation
+[feature/calculus-multivariable] feat(calculus): implement gradient and Hessian
