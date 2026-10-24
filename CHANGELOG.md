@@ -397,3 +397,4 @@
 [feature/search] feat(search): implement full-text search for computation history
 [feature/search] feat(search): add function and constant search
 [feature/search] feat(search): implement fuzzy matching for math expressions
+[feature/search] feat(search): add search result preview
