@@ -327,3 +327,4 @@
 [feature/docker-deployment] ops: add Helm chart for production deployment
 [feature/cloud-storage] feat(storage): add S3-compatible storage backend
 [feature/cloud-storage] feat(storage): implement dataset upload/download
+[feature/cloud-storage] feat(storage): add notebook cloud sync
