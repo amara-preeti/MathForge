@@ -547,3 +547,5 @@
 [pr/feat-export-latex-template] feat(export): add customizable LaTeX document templates
 [pr/feat-export-latex-template] docs(export): document template variables
 [pr/fix-plugin-version-conflict] fix(plugin): resolve version conflict between plugin deps
+[pr/feat-ui-dark-mode-toggle] feat(ui): add animated dark/light mode toggle
+[pr/feat-ui-dark-mode-toggle] fix(ui): persist theme preference in localStorage
