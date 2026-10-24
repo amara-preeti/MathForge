@@ -363,3 +363,4 @@
 [feature/latex-engine] feat(latex): implement bidirectional LaTeX/MathForge DSL conversion
 [feature/latex-engine] fix(latex): fix nested fraction rendering in LaTeX output
 [feature/wolfram-compat] feat(compat): implement Wolfram Language subset interpreter
+[feature/wolfram-compat] feat(compat): add Mathematica notebook import
