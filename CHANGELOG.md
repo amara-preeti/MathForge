@@ -142,3 +142,4 @@
 [feature/dataset-advanced] fix(dataset): fix memory leak in large dataset streaming
 [feature/export-engine] feat(export): implement PDF export via LaTeX backend
 [feature/export-engine] feat(export): add HTML export with embedded plots
+[feature/export-engine] feat(export): implement Jupyter notebook export
