@@ -411,3 +411,4 @@
 [bugfix/ui-rendering] fix(ui): correct LaTeX rendering for complex fractions
 [bugfix/ui-rendering] fix(ui): fix dark mode color contrast for code blocks
 [bugfix/api-errors] fix(api): return proper 422 for malformed JSON input
+[bugfix/api-errors] fix(api): handle computation timeout with proper error response
