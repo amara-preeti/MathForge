@@ -612,3 +612,4 @@
 [pr/feat-export-interactive-html] test(export): verify chart interactivity in browser
 [pr/fix-plugin-circular-deps] fix(plugin): detect and report circular plugin dependencies
 [pr/feat-ui-shortcut-palette] feat(ui): add command palette with fuzzy search (Cmd+K)
+[pr/feat-ui-shortcut-palette] test(ui): add command palette keyboard test
