@@ -10,3 +10,4 @@
 [feature/symbolic-engine-integration] feat(symbolic): add MathML output support
 [feature/symbolic-engine-integration] feat(symbolic): implement symbolic integration via parts
 [feature/symbolic-engine-integration] fix(symbolic): handle edge case in trigonometric simplification
+[feature/symbolic-engine-integration] refactor(symbolic): extract common subexpression elimination
