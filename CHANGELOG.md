@@ -107,3 +107,4 @@
 [feature/equation-engine] feat(eq): implement differential equation classifier
 [feature/equation-symbolic] feat(eq): add symbolic equation solver
 [feature/equation-symbolic] feat(eq): implement system of equations solver
+[feature/equation-symbolic] feat(eq): add inequality solver
