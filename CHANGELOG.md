@@ -168,3 +168,4 @@
 [feature/signal-processing] feat(signal): add spectrogram computation
 [feature/signal-processing] feat(signal): implement wavelet transform (DWT, CWT)
 [feature/signal-processing] test(signal): add signal processing accuracy tests
+[feature/signal-advanced] feat(signal): add noise reduction algorithms
