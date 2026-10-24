@@ -121,3 +121,4 @@
 [feature/plotting-advanced] feat(plot): implement vector field visualization
 [feature/plotting-advanced] fix(plot): fix axis label overlap in dense plots
 [feature/notebook-engine] feat(notebook): implement cell-based execution model
+[feature/notebook-engine] feat(notebook): add Python kernel integration
