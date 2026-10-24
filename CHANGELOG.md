@@ -13,3 +13,4 @@
 [feature/symbolic-engine-integration] refactor(symbolic): extract common subexpression elimination
 [feature/matrix-engine-core] feat(matrix): implement dense matrix operations
 [feature/matrix-engine-core] feat(matrix): add sparse matrix support with CSR format
+[feature/matrix-engine-core] feat(matrix): implement LU decomposition
