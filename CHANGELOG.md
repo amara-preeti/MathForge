@@ -549,3 +549,5 @@
 [pr/fix-plugin-version-conflict] fix(plugin): resolve version conflict between plugin deps
 [pr/feat-ui-dark-mode-toggle] feat(ui): add animated dark/light mode toggle
 [pr/feat-ui-dark-mode-toggle] fix(ui): persist theme preference in localStorage
+[pr/perf-api-response-compression] perf(api): enable gzip response compression
+[pr/perf-api-response-compression] bench(api): 60% payload reduction on large responses
