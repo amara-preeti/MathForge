@@ -288,3 +288,4 @@
 [feature/testing-infrastructure] test: implement visual regression tests
 [feature/testing-infrastructure] test: add load testing with Locust
 [feature/testing-infrastructure] test: set up test coverage requirements
+[feature/monitoring-observability] ops: add Prometheus metrics endpoint
