@@ -341,3 +341,4 @@
 [feature/computation-history] feat(history): implement computation history storage
 [feature/computation-history] feat(history): add history search and filter
 [feature/computation-history] feat(history): implement favorites/bookmarks
+[feature/computation-history] feat(history): add computation replay functionality
