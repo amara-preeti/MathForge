@@ -493,3 +493,5 @@
 [pr/feat-stats-kernel-density] test(stats): verify KDE on Gaussian samples
 [pr/feat-prob-beta-distribution] feat(prob): add Beta distribution support
 [pr/feat-prob-beta-distribution] test(prob): verify Beta moments
+[pr/feat-numerical-hermite-interp] feat(numerical): add Hermite interpolation
+[pr/feat-numerical-hermite-interp] test(numerical): verify Hermite with derivative data
