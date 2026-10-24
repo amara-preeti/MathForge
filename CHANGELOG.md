@@ -544,3 +544,4 @@
 [pr/feat-plot-3d-interactive] feat(plot): add pinch-to-zoom on touch devices
 [pr/feat-dataset-missing-knn] feat(dataset): implement KNN imputation for missing values
 [pr/feat-dataset-missing-knn] test(dataset): verify KNN imputation RMSE
+[pr/feat-export-latex-template] feat(export): add customizable LaTeX document templates
