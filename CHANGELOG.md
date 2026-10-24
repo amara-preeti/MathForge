@@ -384,3 +384,4 @@
 [feature/workspace-management] feat(workspace): add workspace sharing
 [feature/theme-system] feat(theme): implement CSS custom properties theme system
 [feature/theme-system] feat(theme): add dark mode with system preference detection
+[feature/theme-system] feat(theme): add solarized and monokai themes
