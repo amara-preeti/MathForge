@@ -585,3 +585,4 @@
 [pr/fix-auth-jwt-expiry-clock] fix(auth): add clock skew tolerance in JWT validation
 [pr/feat-cache-distributed-redis] feat(cache): implement distributed cache via Redis
 [pr/feat-cache-distributed-redis] test(cache): verify cross-instance cache hit
+[pr/perf-symbolic-pattern-index] perf(symbolic): index patterns by root node type
