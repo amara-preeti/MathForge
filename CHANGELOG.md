@@ -457,3 +457,5 @@
 [pr/fix-numerical-bisection-nan] fix(numerical): guard against NaN in bisection method
 [pr/feat-geometry-kd-tree] feat(geo): implement KD-tree for point queries
 [pr/feat-geometry-kd-tree] test(geo): add KD-tree nearest-neighbor tests
+[pr/feat-graph-floyd-warshall] feat(graph): implement Floyd-Warshall all-pairs shortest path
+[pr/feat-graph-floyd-warshall] test(graph): verify Floyd-Warshall on dense graph
