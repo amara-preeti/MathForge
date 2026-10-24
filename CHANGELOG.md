@@ -194,3 +194,4 @@
 [feature/physics-quantum] feat(physics): add Schrodinger equation solver
 [feature/physics-quantum] feat(physics): implement quantum gate simulation
 [feature/physics-quantum] feat(physics): add quantum circuit visualization
+[feature/physics-quantum] fix(physics): fix normalization in wavefunction computation
