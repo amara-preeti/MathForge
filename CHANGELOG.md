@@ -195,3 +195,4 @@
 [feature/physics-quantum] feat(physics): implement quantum gate simulation
 [feature/physics-quantum] feat(physics): add quantum circuit visualization
 [feature/physics-quantum] fix(physics): fix normalization in wavefunction computation
+[feature/frontend-dashboard] feat(ui): implement main dashboard layout
