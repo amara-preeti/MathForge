@@ -214,3 +214,4 @@
 [feature/frontend-calculus-ui] feat(ui): add calculus result visualization
 [feature/frontend-stats-ui] feat(ui): implement data input table
 [feature/frontend-stats-ui] feat(ui): add statistical test selector
+[feature/frontend-stats-ui] feat(ui): implement results dashboard with charts
