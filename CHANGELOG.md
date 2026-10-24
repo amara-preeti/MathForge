@@ -409,3 +409,4 @@
 [bugfix/ui-rendering] fix(ui): fix plot re-render on window resize
 [bugfix/ui-rendering] fix(ui): fix matrix input overflow on small screens
 [bugfix/ui-rendering] fix(ui): correct LaTeX rendering for complex fractions
+[bugfix/ui-rendering] fix(ui): fix dark mode color contrast for code blocks
