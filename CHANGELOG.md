@@ -603,3 +603,5 @@
 [pr/feat-ml-lstm-cell] test(ml): verify LSTM gradient flow
 [pr/feat-numth-aks-primality] feat(numth): implement AKS deterministic primality test
 [pr/feat-numth-aks-primality] test(numth): verify on first 1000 primes
+[pr/perf-physics-vectorized-rk4] perf(physics): vectorize RK4 for N-body simulation
+[pr/perf-physics-vectorized-rk4] bench(physics): 8x speedup for 1000-body system
