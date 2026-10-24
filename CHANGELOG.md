@@ -331,3 +331,4 @@
 [feature/cloud-storage] feat(storage): implement large file chunked upload
 [feature/sharing-collaboration] feat(share): implement shareable computation links
 [feature/sharing-collaboration] feat(share): add notebook sharing with access control
+[feature/sharing-collaboration] feat(share): implement public gallery for computations
