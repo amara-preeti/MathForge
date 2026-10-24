@@ -65,3 +65,4 @@
 [feature/probability-engine] test(prob): add distribution moment verification tests
 [feature/probability-advanced] feat(prob): add stochastic process simulation
 [feature/probability-advanced] feat(prob): implement Brownian motion and diffusion
+[feature/probability-advanced] feat(prob): add copula functions for dependency modeling
