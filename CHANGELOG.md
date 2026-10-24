@@ -196,3 +196,4 @@
 [feature/physics-quantum] feat(physics): add quantum circuit visualization
 [feature/physics-quantum] fix(physics): fix normalization in wavefunction computation
 [feature/frontend-dashboard] feat(ui): implement main dashboard layout
+[feature/frontend-dashboard] feat(ui): add engine selector sidebar
