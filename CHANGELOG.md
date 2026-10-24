@@ -116,3 +116,4 @@
 [feature/plotting-engine] feat(plot): implement interactive plot controls
 [feature/plotting-engine] test(plot): add visual regression tests for plots
 [feature/plotting-advanced] feat(plot): add animated plot support
+[feature/plotting-advanced] feat(plot): implement polar and complex plane plots
