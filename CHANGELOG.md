@@ -255,3 +255,4 @@
 [feature/backend-auth] feat(auth): implement role-based access control
 [feature/backend-auth] feat(auth): add API key management
 [feature/backend-auth] test(auth): add authentication flow tests
+[feature/backend-caching] feat(cache): implement Redis-based result caching
