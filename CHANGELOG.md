@@ -21,3 +21,4 @@
 [feature/matrix-advanced] feat(matrix): add SVD decomposition
 [feature/matrix-advanced] feat(matrix): implement Cholesky decomposition
 [feature/matrix-advanced] feat(matrix): add matrix norm computations
+[feature/matrix-advanced] feat(matrix): implement pseudoinverse via SVD
