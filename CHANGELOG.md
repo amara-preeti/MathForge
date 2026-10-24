@@ -225,3 +225,4 @@
 [feature/frontend-notebook-ui] feat(ui): implement output rendering for plots and tables
 [feature/frontend-notebook-ui] feat(ui): add notebook toolbar and menu
 [feature/frontend-settings] feat(ui): implement user preferences panel
+[feature/frontend-settings] feat(ui): add theme switcher (light/dark/high-contrast)
