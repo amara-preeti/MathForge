@@ -502,3 +502,4 @@
 [pr/feat-graph-community-detection] test(graph): verify modularity improvement
 [pr/fix-eq-linear-system-singular] fix(eq): detect and report singular systems gracefully
 [pr/feat-signal-stft] feat(signal): implement Short-Time Fourier Transform
+[pr/feat-signal-stft] test(signal): verify STFT invertibility
