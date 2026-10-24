@@ -342,3 +342,4 @@
 [feature/computation-history] feat(history): add history search and filter
 [feature/computation-history] feat(history): implement favorites/bookmarks
 [feature/computation-history] feat(history): add computation replay functionality
+[feature/error-handling] feat(error): implement structured error response format
