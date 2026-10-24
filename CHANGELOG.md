@@ -179,3 +179,4 @@
 [feature/ml-engine] feat(ml): add Support Vector Machine (SVM) with kernel trick
 [feature/ml-engine] feat(ml): implement K-Means and DBSCAN clustering
 [feature/ml-engine] feat(ml): add neural network layers (Dense, Conv, RNN)
+[feature/ml-engine] test(ml): add ML model accuracy tests on standard datasets
