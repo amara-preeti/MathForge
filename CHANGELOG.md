@@ -287,3 +287,4 @@
 [feature/testing-infrastructure] test: add property-based testing with Hypothesis
 [feature/testing-infrastructure] test: implement visual regression tests
 [feature/testing-infrastructure] test: add load testing with Locust
+[feature/testing-infrastructure] test: set up test coverage requirements
