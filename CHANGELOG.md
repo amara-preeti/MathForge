@@ -347,3 +347,4 @@
 [feature/error-handling] feat(error): implement error boundary components in React
 [feature/error-handling] feat(error): add computation timeout handling
 [feature/async-computation] feat(async): implement async computation queue
+[feature/async-computation] feat(async): add computation status polling
