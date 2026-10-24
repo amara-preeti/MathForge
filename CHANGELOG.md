@@ -464,3 +464,4 @@
 [pr/feat-signal-wavelet-haar] test(signal): verify Haar perfect reconstruction
 [pr/feat-ml-gradient-boosting] feat(ml): implement gradient boosting with shrinkage
 [pr/feat-ml-gradient-boosting] test(ml): add gradient boosting accuracy test
+[pr/fix-numth-miller-rabin-edge] fix(numth): fix Miller-Rabin for n=2 and n=3 edge cases
