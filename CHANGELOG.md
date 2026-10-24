@@ -415,3 +415,4 @@
 [bugfix/api-errors] fix(api): fix CORS preflight handling for auth endpoints
 [bugfix/api-errors] fix(api): correct pagination in history list endpoint
 [refactor/engine-interfaces] refactor: define common Engine base interface
+[refactor/engine-interfaces] refactor: migrate all engines to use unified interface
