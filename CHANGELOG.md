@@ -462,3 +462,4 @@
 [pr/fix-equation-polynomial-gcd] fix(eq): fix GCD computation for polynomials with leading zeros
 [pr/feat-signal-wavelet-haar] feat(signal): add Haar wavelet transform
 [pr/feat-signal-wavelet-haar] test(signal): verify Haar perfect reconstruction
+[pr/feat-ml-gradient-boosting] feat(ml): implement gradient boosting with shrinkage
