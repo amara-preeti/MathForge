@@ -231,3 +231,4 @@
 [feature/backend-api-symbolic] feat(api): wire symbolic engine to /api/symbolic router
 [feature/backend-api-symbolic] feat(api): add expression simplification endpoint
 [feature/backend-api-symbolic] feat(api): add symbolic differentiation endpoint
+[feature/backend-api-symbolic] feat(api): add symbolic integration endpoint
