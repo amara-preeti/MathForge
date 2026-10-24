@@ -459,3 +459,4 @@
 [pr/feat-geometry-kd-tree] test(geo): add KD-tree nearest-neighbor tests
 [pr/feat-graph-floyd-warshall] feat(graph): implement Floyd-Warshall all-pairs shortest path
 [pr/feat-graph-floyd-warshall] test(graph): verify Floyd-Warshall on dense graph
+[pr/fix-equation-polynomial-gcd] fix(eq): fix GCD computation for polynomials with leading zeros
