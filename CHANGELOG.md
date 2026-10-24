@@ -249,3 +249,4 @@
 [feature/backend-api-ml] feat(api): add model training endpoint
 [feature/backend-api-ml] feat(api): add model inference endpoint
 [feature/backend-api-ml] feat(api): add model evaluation metrics endpoint
+[feature/backend-api-ml] test(api): add ML API integration tests
