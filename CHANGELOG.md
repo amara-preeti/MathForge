@@ -105,3 +105,4 @@
 [feature/equation-engine] feat(eq): implement polynomial arithmetic and GCD
 [feature/equation-engine] feat(eq): add Diophantine equation solver
 [feature/equation-engine] feat(eq): implement differential equation classifier
+[feature/equation-symbolic] feat(eq): add symbolic equation solver
