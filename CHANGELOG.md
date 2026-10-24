@@ -248,3 +248,4 @@
 [feature/backend-api-ml] feat(api): wire ML engine to /api/ml router
 [feature/backend-api-ml] feat(api): add model training endpoint
 [feature/backend-api-ml] feat(api): add model inference endpoint
+[feature/backend-api-ml] feat(api): add model evaluation metrics endpoint
