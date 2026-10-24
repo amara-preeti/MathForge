@@ -412,3 +412,4 @@
 [bugfix/ui-rendering] fix(ui): fix dark mode color contrast for code blocks
 [bugfix/api-errors] fix(api): return proper 422 for malformed JSON input
 [bugfix/api-errors] fix(api): handle computation timeout with proper error response
+[bugfix/api-errors] fix(api): fix CORS preflight handling for auth endpoints
