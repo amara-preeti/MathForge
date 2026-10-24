@@ -391,3 +391,4 @@
 [feature/keyboard-shortcuts] feat(shortcuts): implement vim-mode for expression editor
 [feature/keyboard-shortcuts] fix(shortcuts): fix shortcut conflicts with browser defaults
 [feature/onboarding] feat(onboarding): implement interactive tutorial
+[feature/onboarding] feat(onboarding): add sample computations gallery
