@@ -300,3 +300,4 @@
 [feature/database-layer] test(db): add database integration tests
 [feature/websocket-realtime] feat(ws): implement WebSocket connection manager
 [feature/websocket-realtime] feat(ws): add real-time computation progress streaming
+[feature/websocket-realtime] feat(ws): implement collaborative session protocol
