@@ -147,3 +147,4 @@
 [feature/export-engine] feat(export): implement MATLAB .m file export
 [feature/plugin-engine] feat(plugin): implement plugin discovery and loading
 [feature/plugin-engine] feat(plugin): add plugin sandboxing with restricted execution
+[feature/plugin-engine] feat(plugin): implement plugin API versioning
