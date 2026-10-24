@@ -154,3 +154,4 @@
 [feature/number-theory] feat(numth): add primality testing (Miller-Rabin)
 [feature/number-theory] feat(numth): implement integer factorization (Pollard rho)
 [feature/number-theory] feat(numth): add modular arithmetic operations
+[feature/number-theory] feat(numth): implement RSA key generation for cryptography module
