@@ -108,3 +108,4 @@
 [feature/equation-symbolic] feat(eq): add symbolic equation solver
 [feature/equation-symbolic] feat(eq): implement system of equations solver
 [feature/equation-symbolic] feat(eq): add inequality solver
+[feature/equation-symbolic] fix(eq): fix rational root theorem implementation
