@@ -263,3 +263,4 @@
 [feature/backend-workers] feat(worker): add computation progress tracking
 [feature/backend-workers] feat(worker): implement worker auto-scaling
 [feature/backend-workers] ops(worker): add worker health monitoring
+[feature/ci-cd-pipeline] ci: add GitHub Actions workflow for Python backend
