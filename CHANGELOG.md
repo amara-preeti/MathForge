@@ -499,3 +499,4 @@
 [pr/feat-geo-convex-hull-3d] feat(geo): implement 3D convex hull (QuickHull3D)
 [pr/feat-geo-convex-hull-3d] test(geo): verify 3D convex hull volume
 [pr/feat-graph-community-detection] feat(graph): implement Louvain community detection
+[pr/feat-graph-community-detection] test(graph): verify modularity improvement
