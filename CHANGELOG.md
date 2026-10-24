@@ -596,3 +596,4 @@
 [pr/fix-prob-inverse-cdf-beta] fix(prob): fix numerical instability in Beta CDF inversion
 [pr/feat-geo-mesh-simplification] feat(geo): implement Quadric Error Metrics mesh simplification
 [pr/feat-geo-mesh-simplification] test(geo): verify hausdorff distance after simplify
+[pr/feat-graph-min-cut] feat(graph): implement Karger's randomized min-cut
