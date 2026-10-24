@@ -565,3 +565,4 @@
 [pr/feat-graph-spectral-clustering] feat(graph): implement spectral clustering via graph Laplacian
 [pr/feat-graph-spectral-clustering] test(graph): verify cluster assignment on SBM graph
 [pr/fix-eq-polynomial-sturm] fix(eq): implement Sturm sequence for real root isolation
+[pr/feat-signal-mel-spectrogram] feat(signal): compute Mel spectrogram for audio
