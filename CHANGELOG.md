@@ -400,3 +400,4 @@
 [feature/search] feat(search): add search result preview
 [bugfix/parser-edge-cases] fix(parser): handle empty expression input gracefully
 [bugfix/parser-edge-cases] fix(parser): fix parsing of nested parentheses
+[bugfix/parser-edge-cases] fix(parser): handle Unicode math symbols correctly
