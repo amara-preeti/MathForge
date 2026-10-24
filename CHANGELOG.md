@@ -278,3 +278,4 @@
 [feature/performance-profiling] perf: implement lazy evaluation for symbolic expressions
 [feature/performance-profiling] perf: add computation time budgeting
 [feature/performance-profiling] benchmark: add performance benchmarks for all engines
+[feature/security-hardening] security: implement input sanitization for all endpoints
