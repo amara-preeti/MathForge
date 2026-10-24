@@ -23,3 +23,4 @@
 [feature/matrix-advanced] feat(matrix): add matrix norm computations
 [feature/matrix-advanced] feat(matrix): implement pseudoinverse via SVD
 [feature/matrix-advanced] fix(matrix): fix numerical stability in LU with partial pivoting
+[feature/calculus-engine] feat(calculus): implement numerical differentiation (finite differences)
