@@ -224,3 +224,4 @@
 [feature/frontend-notebook-ui] feat(ui): add cell execution controls
 [feature/frontend-notebook-ui] feat(ui): implement output rendering for plots and tables
 [feature/frontend-notebook-ui] feat(ui): add notebook toolbar and menu
+[feature/frontend-settings] feat(ui): implement user preferences panel
