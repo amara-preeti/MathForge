@@ -615,3 +615,4 @@
 [pr/feat-ui-shortcut-palette] test(ui): add command palette keyboard test
 [pr/fix-ws-large-payload] fix(ws): fragment large WebSocket payloads to avoid EMSGSIZE
 [pr/feat-symbolic-series-laurent] feat(symbolic): compute Laurent series around singularities
+[pr/feat-symbolic-series-laurent] test(symbolic): verify Laurent of 1/sin(x) at x=0
