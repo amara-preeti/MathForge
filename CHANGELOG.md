@@ -11,3 +11,4 @@
 [feature/symbolic-engine-integration] feat(symbolic): implement symbolic integration via parts
 [feature/symbolic-engine-integration] fix(symbolic): handle edge case in trigonometric simplification
 [feature/symbolic-engine-integration] refactor(symbolic): extract common subexpression elimination
+[feature/matrix-engine-core] feat(matrix): implement dense matrix operations
